@@ -7,9 +7,9 @@
       .titulo-principal__numero
         span(style="color: #fff") 2
       h1 Idea general del videojuego
-    .mb-5.px-4.py-3.texto-color-offset-top-left-2
+    .mb-5.px-4.py-3.texto-color-offset-top-left-2(data-aos="fade-right")
       p.mb-0 Cuando se está pensando en diseñar un videojuego, es importante comenzar con la idea general del juego. Algunos pasos que pueden ayudar a crear esa idea del juego son: 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-left")
       .col-md-10
         .row.align-items-center.container-uno-color.p-4.mb-5(data-aos="fade-left" data-aos-delay="100" data-aos-duration="600")
           .col-12.col-lg-3.mb-4.mb-lg-0
@@ -35,7 +35,7 @@
             h4 c. Buscar referentes de videojuegos
             p.mb-0 Ya sean internacionales o nacionales, parecidos a la temática elegida. Esto ayudará a ampliar las ideas y a tener una idea más completa del videojuego que se quiere diseñar. 
     h3.titulo-tercero Ejemplo de referentes de videojuegos:
-    .div-background-games.p-4
+    .div-background-games.p-4(data-aos="fade-right")
       .row.justify-content-evenly.align-items-stretch
         .col-lg-5.container-juegos-blanco.p-4.mb-4.mb-lg-0
           .row.justify-content-center
@@ -56,7 +56,7 @@
           p.mt-3 Nota. Tomada de 
             a(href="https://store.steampowered.com/app/1338320/Do_Animals_Dream/?l=latam" target="_blank") https://store.steampowered.com/<br>app/1338320/Do_Animals_Dream/?l=latam
 
-    .div-background-games1.p-4.mt-5              
+    .div-background-games1.p-4.mt-5(data-aos="fade-left")         
       .row.justify-content-evenly.align-items-stretch
         .col-lg-5.container-juegos-blanco.p-4
           .row.justify-content-center
@@ -70,9 +70,9 @@
     Separador
     #t_2_1.titulo-segundo.color-acento-contenido
       h2 2.1  Personajes
-    .mb-4.px-4.py-3.texto-color-offset-top-left-2.color-secundario
+    .mb-4.px-4.py-3.texto-color-offset-top-left-2.color-secundario(data-aos="fade-right")
       p.mb-0 Los personajes en los videojuegos están generalmente definidos por los arquetipos de personalidades que entran en juego a la hora de narrar la historia que se va a desarrollar. En ellos, es posible encontrar diversidad de elementos, con unas características marcadas en cuanto a su forma de ser. Cabe destacar ciertos elementos que van a contribuir a la construcción de un personaje:
-    AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
+    AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")(data-aos="fade-left")
       div.px-4(titulo="Personalidad")
         p.mb-2 Definir, según el arquetipo, qué tipo de personaje va a ser el protagonista o antagonista, cómo es su carácter, qué lo motiva, qué lo hiere, qué le gusta y disgusta, todo ello para formar su personalidad, que es la que finalmente determina cómo se comporta el personaje, cómo camina, cómo se mueve, cómo se expresa, si es efusivo o si es introvertido.
       div.px-4(titulo="Aspecto")
@@ -123,7 +123,7 @@
             figure
               img(src="@/assets/curso/tema2-imagen10.svg")
               figcaption Nota. Tomada de <a href="https://www.ondho.com/que-es-arquetipo-marca/" target="_blank">https://www.ondho.com/que-es-arquetipo-marca/</a>
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-down")
       .col-12.col-lg-9
         .cajon.color-acento-contenido.p-4
           .h5 Ficha técnica de un personaje
@@ -140,8 +140,8 @@
     Separador
     #t_2_2.titulo-segundo.color-acento-contenido
       h2 2.2  Narración
-    p.mb-5 Es la forma como se cuentan los sucesos o acciones llevados a cabo por uno o más personajes que se encuentran en un contexto espacio-temporal y que van dando forma a la historia. Los personajes son el corazón del videojuego, ya que la historia no puede existir sin ellos, pues son quienes llevan a cabo las acciones y la sucesión de eventos que dan vida al relato, cuento o novela. 
-    TabsA.color-acento-contenido.mb-5
+    p.mb-5(data-aos="fade-right") Es la forma como se cuentan los sucesos o acciones llevados a cabo por uno o más personajes que se encuentran en un contexto espacio-temporal y que van dando forma a la historia. Los personajes son el corazón del videojuego, ya que la historia no puede existir sin ellos, pues son quienes llevan a cabo las acciones y la sucesión de eventos que dan vida al relato, cuento o novela. 
+    TabsA.color-acento-contenido.mb-5(data-aos="fade-left")
       .tarjeta.color-primario.p-4(titulo="A. Tipos de narrador")
         h4 Tipos de narrador
         p Hay varios tipos de narradores, entre ellos está el que todo lo ve (omnisciente) y todo lo sabe, es decir, es quien describe todo lo que sucede incluso lo que están pensando los personajes: 
@@ -222,7 +222,7 @@
           br
           br
           | Por otro lado, <strong>los videojuegos</strong> presentan los mismos elementos, pero con un desarrollo ramificado que brinda al jugador la posibilidad de interactuar y elegir lo que pasa en la historia, gracias a las decisiones que toma. Es decir, un jugador que se encuentra en el primer nivel se encuentra en tres puertas, A, B y C, y debe decidir cruzar una de ellas. En cada una de esas habitaciones, encontrará un desafío diferente, que lo conduce a un segundo nivel. De la misma forma, puede avanzar hacia tres puertas más, que lo pueden llevar al tercer nivel o, incluso, devolverlo al inicio. Todo esto está controlado por el guionista o escritor, pero le da una sensación de control al jugador. Realmente, es un engaño y un gancho para tener atrapado al jugador y darle versatilidad al videojuego.
-    .row
+    .row(data-aos="fade-up")
       .col-12.col-lg-7.offset-lg-5
         a.anexo(:href="obtenerLink('downloads/CF001_2.2_Creacion de la historia.pdf')" target="_blank")
           .anexo__icono
@@ -235,8 +235,8 @@
     Separador
     #t_2_3.titulo-segundo.color-acento-contenido
       h2 2.3  Teoría básica luces y sombras
-    p.mb-5 ¿Cómo se afecta la percepción de los objetos según la clase de luz que los ilumina? Estos van a mostrar ciertas características gracias al tipo de iluminación que se utiliza.  Es posible distinguir ciertos aspectos de los elementos, tales como su color, textura, volumen, forma, ubicación en el espacio, entre otros, los cuales pueden variar debido al uso de un tipo de iluminación en particular. Gracias a las luces y sombras, es posible percibir la forma tridimensional de un objeto, por eso es preciso mencionar que hay que tener en cuenta qué tipo de iluminación está afectando nuestra escena; para ello, a continuación, se mencionan los tipos de luces que se implementan:
-    .row.justify-content-center.mb-5
+    p.mb-5(data-aos="fade-down") ¿Cómo se afecta la percepción de los objetos según la clase de luz que los ilumina? Estos van a mostrar ciertas características gracias al tipo de iluminación que se utiliza.  Es posible distinguir ciertos aspectos de los elementos, tales como su color, textura, volumen, forma, ubicación en el espacio, entre otros, los cuales pueden variar debido al uso de un tipo de iluminación en particular. Gracias a las luces y sombras, es posible percibir la forma tridimensional de un objeto, por eso es preciso mencionar que hay que tener en cuenta qué tipo de iluminación está afectando nuestra escena; para ello, a continuación, se mencionan los tipos de luces que se implementan:
+    .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-md-10.col-lg-6.mb-5.mb-lg-0.d-flex(data-aos="slide-right" data-aos-delay="250" data-aos-duration="600" data-aos-offset="200")
         .caja-texto.color-primario.p-5
           .row.mb-5
@@ -253,7 +253,7 @@
           p.mb-0
             strong Luz artificial.
             |  La luz artificial sería toda aquella producida por linternas, lámparas, bombillos, fogatas, velas, antorchas, entre otras. Puede propagarse de forma recta o radial, puede tener diferentes posiciones y orientaciones, así como también variedad de colores, intensidades y texturas.
-    TabsC.color-acento-contenido(data-aos="slide-up" data-aos-delay="300" data-aos-duration="600" data-aos-offset="200")
+    TabsC.color-acento-contenido(data-aos="fade-right")
       .py-3.py-md-4(titulo="Aspectos importantes de la luz")
         p.mb-5 La luz puede influir en los objetos, de acuerdo con ciertos aspectos que conllevan a visualizar de una u otra manera los objetos que se encuentran en el escenario. Se puede decir, entonces, que hay que tener en cuenta lo siguiente:
         SlyderE(indicadores="derecha")
@@ -392,7 +392,7 @@
     Separador
     #t_2_4.titulo-segundo.color-acento-contenido
       h2 2.4  Guion técnico
-    .bloque-texto-a.color-primario.p-4.p-md-5.mb-5 
+    .bloque-texto-a.color-primario.p-4.p-md-5.mb-5(data-aos="fade-right")
       .row.m-0.align-items-center.justify-content-between
         .col-lg-8.mb-4.mb-lg-0
           .bloque-texto-a__texto.p-4
@@ -400,11 +400,11 @@
         .col-lg-4
           h4.mb-0 Es importante escribir la hora de la escena, si es de día, en la tarde o en la noche. Asimismo, si es una escena en el espacio exterior, o en un espacio interno. Esto permite saber el tipo de iluminación que ambientará dicha escena.
     p.mb-5 
-    p.mb-5 El guion técnico permite describir cada una de las escenas y qué elementos tendrá. Todo depende del tipo de videojuego que se desea realizar. Por ejemplo, la posición de la cámara, si es un juego de posición lateral, se puede usar una cámara frontal, pero si se desea ver todo el espacio del juego, se puede usar una cámara cenital. 
+    p.mb-5(data-aos="fade-left") El guion técnico permite describir cada una de las escenas y qué elementos tendrá. Todo depende del tipo de videojuego que se desea realizar. Por ejemplo, la posición de la cámara, si es un juego de posición lateral, se puede usar una cámara frontal, pero si se desea ver todo el espacio del juego, se puede usar una cámara cenital. 
       br
       br
       | Por último, se debe numerar cada una de las escenas, como 1, 2, 3, etc., con la finalidad de mantener una secuencia lineal, de acuerdo con el guion narrativo, y permitirá realizar un <i>storyboard</i> detallado, en orden. También es importante mencionar si es una escena en un espacio exterior o interior y la hora en la que está sucediendo la escena.
-    .row
+    .row(data-aos="fade-down")
       .col-12.col-lg-4.offset-lg-8
         a.anexo(:href="obtenerLink('downloads/CF001_2.4_Guion tecnico.pdf')" target="_blank")
           .anexo__icono
@@ -416,7 +416,7 @@
     Separador
     #t_2_5.titulo-segundo.color-acento-contenido
       h2 2.5 <i>Storyboard</i>
-    .row.mb-5
+    .row.mb-5(data-aos="fade-right")
       .col-12.col-lg-6.mb-5.mb-lg-0
         p.mb-5 El <i>storyboard</i> fundamentalmente es la base donde se ilustran los elementos y narrativa sobre una plantilla en que se detalla cada parte o escena del videojuego. En él se relata, de manera breve pero concisa, el desarrollo de la trama o historia del videojuego, para poder explicar el funcionamiento, las mecánicas y la distribución de elementos. 
           br
@@ -443,7 +443,7 @@
                 p.mb-0 #[b Figura 41]. <i>Storyboard Flynn</i> en el bosque <i>Gaokerena</i>
           figure
             img(src="@/assets/curso/tema2-imagen20.png")
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-left")
       .col-12.col-lg-10
         .caja-texto.color-acento-contenido.p-5
           .row.mb-4
@@ -463,7 +463,7 @@
     Separador
     #t_2_6.titulo-segundo.color-acento-contenido
       h2 2.6 Objetivos del videojuego
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-right")
       .col-12.col-lg-9
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
           .bloque-texto-g__img(
@@ -472,10 +472,12 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Por lo general, los videojuegos buscan que se cumpla con diversos objetivos, como derrotar al enemigo mayor, o completar todos los niveles. Para ello, es importante que se motive al jugador para que alcance dichos objetivos, siendo necesario establecer algunas reglas que permiten al jugador participar y tomar decisiones que le faciliten cumplir con dichas metas. 
     h3.titulo-tercero Mecánicas en los videojuegos
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/s-uKIJ5Cbuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    .row.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-left")
+      .col-lg-10
+        figure
+          .video
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/s-uKIJ5Cbuw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    .row.mb-5(data-aos="fade-down")
       .col-12.col-lg-6.md-5.md-lg-0.d-flex.mb-5
         p.mb-0 Las mecánicas en los videojuegos podemos definirlas como las acciones que el jugador realiza, mediante la interacción con mandos, para modificar la posición, características, traslación, entre otras, en un punto concreto. Es decir, las posibilidades que el usuario le puede dar al personaje en cuanto a lo que puede hacer, cómo hacerlo, los límites que tiene y las reglas que indican lo que se puede y no se puede realizar. Estas reglas generales son las que definen la finalidad del juego, así como el cómo, cuándo y por qué realizar las acciones para lograr las metas, implementadas de manera creativa.
           br
@@ -491,80 +493,80 @@
             br
             br
             | Estos son: el propósito del juego, el procedimiento para efectuar la acción, las reglas que gobiernan la acción, el número de jugadores, el rol de los jugadores, el resultado o recompensa, las habilidades requeridas, los patrones de interacción, la actividad física necesaria para jugar y el equipamiento preciso.
-    p.mb-5 Algunos ejemplos de mecánicas destacadas en los videojuegos son: cuando un personaje brinca encima de un enemigo y lo elimina, o si el personaje salta hacia un muro y queda deslizándose en este; si un objeto es lanzado al jugador, este presiona el botón de acción de su arma y golpea el objeto, el cual rebota como si fuese bateado, generando una acción, cambia el estado del elemento al que se le aplica esa acción.
+    p.mb-5(data-aos="fade-left") Algunos ejemplos de mecánicas destacadas en los videojuegos son: cuando un personaje brinca encima de un enemigo y lo elimina, o si el personaje salta hacia un muro y queda deslizándose en este; si un objeto es lanzado al jugador, este presiona el botón de acción de su arma y golpea el objeto, el cual rebota como si fuese bateado, generando una acción, cambia el estado del elemento al que se le aplica esa acción.
     h3.titulo-tercero Dinámicas en los videojuegos
     .row.justify-content-center
       .col-12.col-lg-10
-        figure.mb-5
+        figure.mb-5(data-aos="fade-right")
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/jZP5oiToQTg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        p.mb-5 Son los resultados de haber puesto en acción las mecánicas. Estas hacen parte fundamental del juego y definen de alguna manera el estilo de ellos. Algunos ejemplos de estas son:
+        p.mb-5(data-aos="fade-down") Son los resultados de haber puesto en acción las mecánicas. Estas hacen parte fundamental del juego y definen de alguna manera el estilo de ellos. Algunos ejemplos de estas son:
         .row.justify-content-center
           .col-11.col-md-10.col-lg-10
-            .row.align-items-center.container-uno-color.p-4.mb-5(data-aos="slide-left" data-aos-delay="100" data-aos-duration="600" data-aos-offset="200")
+            .row.align-items-center.container-uno-color.p-4.mb-5(data-aos="fade-right")
               .col-12.col-lg-3.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2-imagen23.svg" style="width: 200px").m-auto
               .col-12.col-lg-9.mb-5.mb-lg-0
                 h4 Supervivencia.
                 p Son las mecánicas que, como su nombre indica, son necesarias para que el personaje se mantenga en el juego o muera, pudiendo ser, pero no limitándose a ellas, las vidas, barra de energía, nivel de sangre, nivel de hambre o sed, entre otras.
-            .row.align-items-center.container-uno-color.claro.p-4.mb-5(data-aos="slide-right" data-aos-delay="100" data-aos-duration="600" data-aos-offset="200") 
+            .row.align-items-center.container-uno-color.claro.p-4.mb-5(data-aos="fade-left")
               .col-12.col-lg-3.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2-imagen24.svg" style="width: 200px").m-auto
               .col-12.col-lg-9.mb-5.mb-lg-0
                 h4 Puntaje o experiencia. 
                 p Representa el porcentaje de avance en estadísticas del personaje, en el cual está el usuario en el juego.
-            .row.align-items-center.container-uno-color.p-4.mb-5(data-aos="slide-left" data-aos-delay="100" data-aos-duration="600" data-aos-offset="200")
+            .row.align-items-center.container-uno-color.p-4.mb-5(data-aos="fade-right")
               .col-12.col-lg-3.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2-imagen25.svg" style="width: 200px").m-auto
               .col-12.col-lg-9.mb-5.mb-lg-0
                 h4 Niveles. 
                 p Hacen parte de los puntos a alcanzar para avanzar en la evolución o mejora del personaje en el juego.
-            .row.align-items-center.container-uno-color.claro.p-4.mb-5(data-aos="slide-right" data-aos-delay="100" data-aos-duration="600" data-aos-offset="200")
+            .row.align-items-center.container-uno-color.claro.p-4.mb-5(data-aos="fade-left")
               .col-12.col-lg-3.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2-imagen26.svg" style="width: 200px").m-auto
               .col-12.col-lg-9.mb-5.mb-lg-0
                 h4 Conquista de territorios.
                 p Son las dinámicas principales en los juegos FPS, donde se busca conquistar un mapa o territorio.
-            .row.align-items-center.container-uno-color.p-4.mb-5(data-aos="slide-left" data-aos-delay="100" data-aos-duration="600" data-aos-offset="200")
+            .row.align-items-center.container-uno-color.p-4.mb-5(data-aos="fade-right")
               .col-12.col-lg-3.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2-imagen27.svg" style="width: 200px").m-auto
               .col-12.col-lg-9.mb-5.mb-lg-0
                 h4 Entendimiento espacial.  
                 p Los juegos de <i>puzzles</i> incluyen esta dinámica, en la que se busca, mediante habilidades, poder solucionar rompecabezas o acertijos.
-            .row.align-items-center.container-uno-color.claro.p-4.mb-5(data-aos="slide-right" data-aos-delay="100" data-aos-duration="600" data-aos-offset="200")
+            .row.align-items-center.container-uno-color.claro.p-4.mb-5(data-aos="fade-left")
               .col-12.col-lg-3.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2-imagen28.svg" style="width: 200px").m-auto
               .col-12.col-lg-9.mb-5.mb-lg-0
                 h4 Destrucción.
                 p Son dinámicas en las que el objetivo principal es acabar con todo. Los <i>Battle Royal</i> son ejemplo de este tipo de dinámicas.
-            .row.align-items-center.container-uno-color.p-4.mb-5(data-aos="slide-left" data-aos-delay="100" data-aos-duration="600" data-aos-offset="200")
+            .row.align-items-center.container-uno-color.p-4.mb-5(data-aos="fade-right")
               .col-12.col-lg-3.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2-imagen29.svg" style="width: 200px").m-auto
               .col-12.col-lg-9.mb-5.mb-lg-0
                 h4 Construcción. 
                 p Dinámicas en que la acción principal es que, para avanzar, se necesita crear elementos que influyen en el entorno. Ejemplo de estos juegos son <i>Dragon quest builders, Minecraft</i>.
-            .row.align-items-center.container-uno-color.claro.p-4.mb-5(data-aos="slide-right" data-aos-delay="100" data-aos-duration="600" data-aos-offset="200")
+            .row.align-items-center.container-uno-color.claro.p-4.mb-5(data-aos="fade-left")
               .col-12.col-lg-3.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2-imagen30.svg" style="width: 200px").m-auto
               .col-12.col-lg-9.mb-5.mb-lg-0
                 h4 Colección.
                 p En esta dinámica, la finalidad es recolectar ciertos elementos para poder avanzar o ganar la partida. Se usa frecuentemente en juegos de plataforma, donde, para avanzar de nivel, se tiene que recolectar elementos como monedas o estrellas. Ejemplo de ello son juegos como <i>Little Big Planet</i>.
-            .row.align-items-center.container-uno-color.p-4.mb-5(data-aos="slide-left" data-aos-delay="100" data-aos-duration="600" data-aos-offset="200")
+            .row.align-items-center.container-uno-color.p-4.mb-5(data-aos="fade-right")
               .col-12.col-lg-3.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2-imagen31.svg" style="width: 200px").m-auto
               .col-12.col-lg-9.mb-5.mb-lg-0
                 h4 Persecución o evasión. 
                 p Juegos en los que la finalidad es capturar o escapar de otros elementos o personajes. Se puede resaltar un juego como <i>Pacman</i>, u otros más recientes que usan esta dinámica, como <i>Grand Theft Auto</i> o <i>Saints Row</i>.
-            .row.align-items-center.container-uno-color.claro.p-4.mb-5(data-aos="slide-right" data-aos-delay="100" data-aos-duration="600" data-aos-offset="200")
+            .row.align-items-center.container-uno-color.claro.p-4.mb-5(data-aos="fade-left")
               .col-12.col-lg-3.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2-imagen32.svg" style="width: 200px").m-auto
@@ -572,8 +574,8 @@
                 h4 Carreras.
                 p Son juegos que, como su nombre lo indica, su dinámica principal es llegar a la meta en primera posición. Entre este tipo de juegos, se pueden mencionar ejemplos como <i>Mario Kart</i> o <i>Drift</i>.
     h3.titulo-tercero Niveles de juego
-    p.mb-2 Los niveles son una secuencia de escenarios, de principio a fin, de la historia, por donde el jugador se desplazará, dependiendo del tipo de mecánica de juego que se desea realizar.  Es decir, el espacio en el que se va a generar toda la acción, es ahí donde se van a localizar los diversos elementos que componen ese espacio. Se deben tener varios elementos en cuenta:
-    ul.lista-ul--color.mb-5
+    p.mb-2(data-aos="fade-down") Los niveles son una secuencia de escenarios, de principio a fin, de la historia, por donde el jugador se desplazará, dependiendo del tipo de mecánica de juego que se desea realizar.  Es decir, el espacio en el que se va a generar toda la acción, es ahí donde se van a localizar los diversos elementos que componen ese espacio. Se deben tener varios elementos en cuenta:
+    ul.lista-ul--color.mb-5(data-aos="fade-left")
       li 
         i.fas.fa-gamepad(style="color: #8979F3")
         | De forma principal, la plataforma o el piso sobre el que se puede caminar, nadar, volar, etc.
@@ -586,7 +588,7 @@
       li 
         i.fas.fa-gamepad(style="color: #8979F3")
         | Y, también, tener los elementos que se pueden destruir, mover, tirar. Elementos que pueden esconder algún secreto, no tener nada, o facilitar el acceso a otro espacio. 
-    .tarjeta.tarjeta--games.p-4
+    .tarjeta.tarjeta--games.p-4(data-aos="fade-right")
       SlyderA
         .p-5
           .row.justify-content-center

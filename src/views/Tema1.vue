@@ -7,9 +7,9 @@
       .titulo-principal__numero
         span(style="color: #fff") 1
       h1 Historia del videojuego
-    .mb-5.px-4.py-3.texto-color-offset-top-left-2
+    .mb-5.px-4.py-3.texto-color-offset-top-left-2(data-aos="fade-right")
       p.mb-0 Los videojuegos responden a la acción que realiza un jugador por medio de unos mandos que se encuentran conectados a una máquina. En un principio, se destacaron como principales desarrolladores Estados Unidos, con el Atari, y Japón, con Nintendo. A continuación, se puede observar la historia de los videojuegos:
-    .tarjeta.tarjeta--gris.p-4
+    .tarjeta.tarjeta--gris.p-4(data-aos="fade-left")
       LineaTiempoC.color-acento-contenido
         .row.px-5(titulo="Años 50")
           p Se puede atribuir a William Higinbotham como el primero en crear un videojuego, quien trabajó en los años 30 activamente en el desarrollo de un radar en la Segunda Guerra Mundial. Por lo tanto, en los años 50, hizo uso de un radar y lo adaptó, gracias a sus conocimientos en electrónica y física, creando el juego 
@@ -188,14 +188,14 @@
     Separador
     #t_1_1.titulo-segundo.color-acento-contenido
       h2 1.1  <i>Pipeline</i> del videojuego
-    p.mb-5 El <i>pipeline</i> es el proceso productivo que acarrea el videojuego. Por ello es importante definirlo, para tener un flujo de trabajo detallado, lo que permite que se realice en un proceso lógico, evitando retrasos en la realización del producto final.
-    .row
+    p.mb-5(data-aos="fade-right") El <i>pipeline</i> es el proceso productivo que acarrea el videojuego. Por ello es importante definirlo, para tener un flujo de trabajo detallado, lo que permite que se realice en un proceso lógico, evitando retrasos en la realización del producto final.
+    .row(data-aos="fade-down")
       .col-auto
         .titulo-sexto.color-acento-contenido.w-auto
           p.mb-0 #[b Figura 1]. #[i Pipeline] videojuego
-    figure.mb-5
+    figure.mb-5(data-aos="fade-down")
       img(src='@/assets/curso/tema1-imagen17.svg')
-    .row.justify-content-center(data-aos="fade-in" data-aos-delay="100" data-aos-duration="600")
+    .row.justify-content-center(data-aos="fade-left")
       .col-12.col-lg-10
         .tarjeta.color-primario.container-maquinas.p-3
           .row.justify-content-around.align-items-center
@@ -213,9 +213,9 @@
     Separador
     #t_1_2.titulo-segundo.color-acento-contenido
       h2 1.2  Antecedentes del videojuego en Colombia
-    .mb-4.px-4.py-3.texto-color-offset-top-left-2.color-secundario
+    .mb-4.px-4.py-3.texto-color-offset-top-left-2.color-secundario(data-aos="fade-right")
       p.mb-0 Aquí se mencionan algunos de los videojuegos más sobresalientes elaborados por empresas colombianas, algunos ganadores de diferentes premios, como también catalogados entre los más descargados. Cabe aclarar que no son todos los videojuegos realizados en el país:
-    .p-0
+    .p-0(data-aos="fade-left")
       .tarjeta.tarjeta--games.p-4
         SlyderA
           .row.justify-content-center.p-5
@@ -366,13 +366,13 @@
     Separador
     #t_1_3.titulo-segundo.color-acento-contenido
       h2 1.3  Tipos de videojuegos y plataformas
-    figure.container-image-box-color.mb-5
+    figure.container-image-box-color.mb-5(data-aos="fade-right")
       img(src="@/assets/curso/tema1-imagen31.jpg")
       .color-text.px-4.py-4
         p.mb-0 El ocio y tiempo de esparcimiento de la cultura y la sociedad actual, a partir de los años 80, ha tenido una gran transformación. Cada vez más personas dedican tiempo y dinero hacia medios de entretenimientos tecnológicos, uno de ellos, los videojuegos. Esta industria desarrolló una curva de éxito exponencial al ser cada vez más asequible, convirtiéndose en una de las de mayor consumo en la actualidad.
     h3.titulo-tercero Tipos de juegos
-    p.mb-5 Los videojuegos evolucionaron tomando nuevas mecánicas y características que los fueron transformando y a su vez desarrollando estilos diferenciados unos de otros, partiendo de la premisa de acción y recompensa. Debido a sus variaciones, los videojuegos se pueden clasificar en diferentes géneros y subgéneros, tomando en cuenta su tipo de jugabilidad, de los cuales podemos destacar los siguientes: 
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+    p.mb-5(data-aos="fade-down") Los videojuegos evolucionaron tomando nuevas mecánicas y características que los fueron transformando y a su vez desarrollando estilos diferenciados unos de otros, partiendo de la premisa de acción y recompensa. Debido a sus variaciones, los videojuegos se pueden clasificar en diferentes géneros y subgéneros, tomando en cuenta su tipo de jugabilidad, de los cuales podemos destacar los siguientes: 
+    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")(data-aos="fade-left")
       .row.px-3(titulo="Juegos de lucha")
         .col-lg-7.mb-4.mb-md-0
           p Son juegos en los cuales se recrean combates entre mínimo 2 contrincantes sobre una arena de batalla, en perspectiva lateral en tercera persona.  
@@ -475,8 +475,8 @@
             img(src='@/assets/curso/tema1-imagen40.jpg')
             figcaption Nota. Tomada de <a href="https://www.rovio.com/games/angry-birds-2/" target="_blank">https://www.rovio.com/games/angry-birds-2/</a>
     h3.titulo-tercero Sistemas de clasificación en los videojuegos
-    p.mb-5 Para el desarrollo de videojuegos existen sistemas de clasificación para poder ser vendidos o alquilados. Entre ellos, es posible destacar el sistema europeo y el americano.
-    .row.justify-content-center.mb-5
+    p.mb-5(data-aos="fade-right") Para el desarrollo de videojuegos existen sistemas de clasificación para poder ser vendidos o alquilados. Entre ellos, es posible destacar el sistema europeo y el americano.
+    .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-12.col-lg-10
         .row.container-uno-color.p-4.p-lg-5.mb-5(data-aos="slide-right" data-aos-delay="100" data-aos-duration="600")
           .col-12.col-lg-3.mb-4.mb-lg-0
@@ -511,10 +511,10 @@
                   img(src="@/assets/curso/tema1-imagen44.svg")
                   figcaption Nota. Tomada de <a target="_blank" href="https://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/senalradionica/articulo-noticia/galeriaimagen/fotorcreatedn.jpg">https://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/senalradionica/articulo-noticia/galeriaimagen/fotorcreatedn.jpg</a> 
     h3.titulo-tercero  Plataformas actuales de videojuegos
-    p.mb-5 Son los sistemas base donde funcionan los juegos, en dichos dispositivos se emplean lenguajes de programación. 
+    p.mb-5(data-aos="fade-right") Son los sistemas base donde funcionan los juegos, en dichos dispositivos se emplean lenguajes de programación. 
     h3.titulo-tercero Consolas de videojuegos 
-    p.mb-5 Las consolas de videojuegos siguen siendo el sistema más popular de la actualidad. Entre ellas, se puede encontrar un cruce generacional, lo que se conoce como consolas de anterior generación y de nueva generación.
-    .row.justify-content-center.mb-5
+    p.mb-5(data-aos="fade-right") Las consolas de videojuegos siguen siendo el sistema más popular de la actualidad. Entre ellas, se puede encontrar un cruce generacional, lo que se conoce como consolas de anterior generación y de nueva generación.
+    .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-md-8.col-lg-6.mb-4
         .row.h-100
           .col-lg-6
@@ -561,8 +561,8 @@
               .col-12.p-4
                 p.mb-0 La consola de menor potencia de la actualidad, pero se ve compensada por su versatilidad y portabilidad. Tiene una resolución de 1280 x 720px, aunque el sistema puede llegar a 1080p cuando está conectada al televisor.
     h3.titulo-tercero PC
-    p.mb-5 En los últimos años se ha vuelto muy popular el PC como sistema de videojuegos, esto en parte porque las desarrolladoras están lanzando por este medio los juegos que salen en videoconsolas. Se perfila a futuro como el sistema por excelencia. En el PC, es posible encontrar plataformas dedicadas a videojuegos basados en la nube, en un sistema similar a como trabaja Netflix, de las cuales podemos destacar las siguientes:
-    .row.mb-0.mb-lg-5
+    p.mb-5(data-aos="fade-right") En los últimos años se ha vuelto muy popular el PC como sistema de videojuegos, esto en parte porque las desarrolladoras están lanzando por este medio los juegos que salen en videoconsolas. Se perfila a futuro como el sistema por excelencia. En el PC, es posible encontrar plataformas dedicadas a videojuegos basados en la nube, en un sistema similar a como trabaja Netflix, de las cuales podemos destacar las siguientes:
+    .row.mb-0.mb-lg-5(data-aos="fade-left")
       .col-12.col-lg-3.mb-0.d-flex(data-aos="zoom-in-left" data-aos-delay="100" data-aos-duration="600")
         figure.container-elements
           img(src="@/assets/curso/tema1-imagen50.png" style="width:220px").m-auto
@@ -579,7 +579,7 @@
           tbody
             tr
               td.align-middle Es la plataforma de videojuegos de Google, ofrece videojuegos vía streaming, es decir, se ejecutan en los servidores de Google y se juegan a través de la app o el navegador.
-    .row.mb-0.mb-lg-5
+    .row.mb-0.mb-lg-5(data-aos="fade-right")
       .col-12.col-lg-3.mb-0.d-flex(data-aos="zoom-in-left" data-aos-delay="100" data-aos-duration="600")
         figure.container-elements
           img(src="@/assets/curso/tema1-imagen52.png" style="width:220px").m-auto
@@ -596,7 +596,7 @@
           tbody
             tr
               td.align-middle Plataforma perteneciente a la desarrolladora Electronics Arts, que se destaca por poseer juegos como <i>Fifa</i>.
-    .row.mb-0.mb-lg-5
+    .row.mb-0.mb-lg-5(data-aos="fade-down")
       .col-12.col-lg-3.mb-0.d-flex(data-aos="zoom-in-left" data-aos-delay="100" data-aos-duration="600")
         figure.container-elements
           img(src="@/assets/curso/tema1-imagen54.png" style="width:220px").m-auto
@@ -613,7 +613,7 @@
           tbody
             tr
               td.align-middle Son plataformas que toman como base los navegadores web; generalmente alojan juegos casuales. Un sistema en el cual la mayoría son juegos gratis. Tuvo sus inicios en la ya difunta Adobe Flash Player. Entre ellas, se destacan: <a href='https://armorgames.com/' target='_blank'>https://armorgames.com/</a>, <a href='https://www.minijuegos.com/' target='_blank'>https://www.minijuegos.com/</a>, <a href='https://www.juegosdiarios.com/' target='_blank'></a>
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-10
         .container-maquinas.p-5
           .row
@@ -628,7 +628,7 @@
                     span.text-white <i>Arcades</i> populares
               figure
                 img(src="@/assets/curso/tema1-imagen56.svg")
-    .row.align-items-end
+    .row.align-items-end(data-aos="fade-left")
       .col-12.col-lg-6.mb-5.mb-lg-0
         h3 Celulares
         p.mb-0 Los celulares, en la última década, se han posicionado como el hardware con mayor catálogo de juegos. Sea de paso dicho, su mayor concentración se basa en videojuegos casuales, popularizándose con el lanzamiento de <i>Angry Birds, Candy Crush, Plants vs. Zombies</i>, entre otros. Aunque con la tecnología avanzando de manera exponencial, los videojuegos que antes se lanzaban en consolas están llegando a estos dispositivos; juegos tipo <i>battle royale</i> (todos contra todos), como <i>Free Fire</i> o <i>Fortnite</i>, siendo así que las consolas portátiles prácticamente han desaparecido del panorama actual y los teléfonos móviles han tomado el lugar que estas han dejado.
