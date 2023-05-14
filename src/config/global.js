@@ -300,13 +300,13 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Aristizabal Gutiérrez Claudia Patrica',
+          nombre: 'Claudia Patrica Aristizabal Gutiérrez',
           cargo: 'Líder ecosistema de recursos educativos digitales (RED)',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Morales Gualdron Liliana Victoria',
+          nombre: 'Liliana Victoria Morales Gualdron',
           cargo: 'Responsable de línea de producción',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
@@ -350,13 +350,13 @@ export default {
           centro: 'Centro Agropecuario La Granja - Regional Tolima',
         },
         {
-          nombre: 'Lopez Escudero Gloria Amparo',
+          nombre: 'Gloria Amparo Lopez Escudero',
           cargo: 'Adecuador Instruccional - 2023',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Velandia Espitia Andres Felipe',
+          nombre: 'Andres Felipe Velandia Espitia',
           cargo: 'Metodólogo para la Formación Virtual - 2023',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
@@ -384,7 +384,7 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Rey Quiñonez Yuly Andrea',
+          nombre: 'Yuly Andrea Rey Quiñonez',
           cargo: 'Diseñador de contenidos digitales - 2023',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
@@ -419,13 +419,13 @@ export default {
           centro: 'Centro de Comercio y Servicios -  Regional Tolima',
         },
         {
-          nombre: 'Navarro Jaimes Ernesto',
+          nombre: 'Ernesto Navarro Jaimes',
           cargo: 'Animador y productor multimedia - 2023',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Murcia Pardo Laura Gisselle',
+          nombre: 'Laura Gisselle Murcia Pardo',
           cargo: 'Animador y productor multimedia - 2023',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
@@ -454,19 +454,19 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Murcia Pardo Laura Gisselle',
+          nombre: 'Laura Gisselle Murcia Pardo',
           cargo: 'Evaluador para contenidos inclusivos y accesibles - 2023',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'perez manchego lina marcela',
+          nombre: 'Lina Marcela Perez Manchego',
           cargo: 'Validador de recursos digitales - 2023',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Castaño Pérez Leyson Fabián',
+          nombre: 'Leyson Fabián Castaño Pérez',
           cargo: 'Validador de recursos digitales - 2023',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
