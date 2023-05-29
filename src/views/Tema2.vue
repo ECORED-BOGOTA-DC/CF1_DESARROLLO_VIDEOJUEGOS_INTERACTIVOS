@@ -41,7 +41,8 @@
           .row.justify-content-center
             .col-auto.px-2
               .titulo-sexto.color-acento-contenido.mb-2          
-                p.mb-0 #[b Figura 25]. Videojuego #[i Limbo]
+                p.mb-0 #[b Figura 25]
+                p.mb-0 Videojuego #[i Limbo]
           figure.px-2
             img.img-a.img-t(src="@/assets/curso/tema2-imagen4.jpg")
           p.mt-3 Nota. Tomada de 
@@ -50,7 +51,8 @@
           .row.justify-content-center
             .col-auto.px-2
               .titulo-sexto.color-acento-contenido.mb-2
-                p.mb-0 #[b Figura 26]. Videojuego <i>Do animals dream?</i>
+                p.mb-0 #[b Figura 26]
+                p.mb-0 Videojuego <i>Do animals dream?</i>
           figure.px-2
             img.img-a.img-t(src="@/assets/curso/tema2-imagen5.jpg")
           p.mt-3 Nota. Tomada de 
@@ -62,7 +64,8 @@
           .row.justify-content-center
             .col-auto.px-2
               .titulo-sexto.color-acento-contenido.mb-2
-                p.mb-0 #[b Figura 27]. Videojuego <i>Little nightmares</i>
+                p.mb-0 #[b Figura 27]
+                p.mb-0 Videojuego <i>Little nightmares</i>
           figure.px-2
             img.img-a.img-t(src="@/assets/curso/tema2-imagen6.jpg")
           p.mt-3 Nota. Tomada de 
@@ -84,10 +87,11 @@
           .row.justify-content-center
             .col-auto
               .titulo-sexto.color-acento-contenido.mb-2
-                p.mb-0 #[b Figura 28]. Aspecto visual juego <i>Agent Intercept</i>
+                p.mb-0 #[b Figura 28]
+                p.mb-0 Aspecto visual juego <i>Agent Intercept</i>
           figure
             img(src="@/assets/curso/tema2-imagen7.jpg")
-            figcaption Nota. Tomada de <a href="https://store.steampowered.com/app/1502710/Agent_Intercept/" target="_blank">https://store.steampowered.com/app/1502710/Agent_Intercept/</a>
+            figcaption Nota. Tomada de <a href="https://store.steampowered.com/app/1502710/Agent_Intercept/" target="_blank">https://store.steampowered.com/ app/1502710/Agent_Intercept/</a>
       .row.px-4(titulo="<i>Thumbnails</i>")
         .col-12.col-lg-6.mb-5.mb-lg-0
           p.mb-0 En este paso, es donde comienza la exploración del proceso de diseño, se empiezan a hacer bocetos pequeños para explorar ideas que puedan funcionar o descartarse. Un punto a tener en cuenta es la creación de la silueta del personaje, para ver cómo se reconoce en la visualización; para ello, por ejemplo para un juego <i>2D</i> lateral de plataformas, se crean thumbnails de la silueta en varias posiciones, teniendo en cuenta la vista lateral de la cámara. En igual caso, si el juego se viera en vista cenital, las siluetas deberían hacerse teniendo en cuenta esta vista.
@@ -95,7 +99,8 @@
           .row.justify-content-center
             .col-auto
               .titulo-sexto.color-acento-contenido.mb-2
-                p.mb-0 #[b Figura 29]. <i>Thumbnails</i>
+                p.mb-0 #[b Figura 29]
+                p.mb-0 <i>Thumbnails</i>
           figure
             img(src="@/assets/curso/tema2-imagen8.jpg")
             figcaption Nota. Tomada de <a href="https://www.notodoanimacion.es/diseno-y-creacion-de-personajes-para-videojuegos/" target="_blank">https://www.notodoanimacion.es/diseno-y-creacion-de-personajes-para-videojuegos/</a>
@@ -107,10 +112,11 @@
             .row.justify-content-center.mb-4
               .col-auto
                 .titulo-sexto.color-acento-contenido.mb-2
-                  p.mb-0 #[b Figura 30]. Paleta de colores ejemplo de <i>Super Mario Bros</i>.
+                  p.mb-0 #[b Figura 30]
+                  p.mb-0 Paleta de colores ejemplo de <i>Super Mario Bros</i>.
             figure
               img(src="@/assets/curso/tema2-imagen9.jpg")
-              figcaption Nota. Tomada de <a href="https://mario.fandom.com/es/wiki/Super_Mario_Wiki:Paleta_de_Colores" target="_blank">https://mario.fandom.com/es/wiki/Super_Mario_Wiki:Paleta_de_Colores</a>
+              figcaption Nota. Tomada de <a href="https://mario.fandom.com/es/wiki/Super_Mario_Wiki:Paleta_de_Colores" target="_blank">https://mario.fandom.com/es/wiki /Super_Mario_Wiki:Paleta_de_Colores</a>
 
       div.px-4(titulo="Identidad")
         p.mb-5 En este punto debemos tener elementos que ayuden a definir ciertas características del personaje, para que a primera vista sean fácilmente identificables, como brazos largos o piernas desproporcionadas, para resaltar ciertas cualidades físicas; todo ello de la mano con los modeladores de personajes, pues, en trabajo conjunto, finalmente se desarrolla todo el personaje, donde queda listo su lenguaje corporal, sus elementos característicos y objetos que lo acompañarán.
@@ -119,7 +125,8 @@
             .row.justify-content-center.mb-4
               .col-auto
                 .titulo-sexto.color-acento-contenido.mb-2
-                  p.mb-0 #[b Figura 31]. Doce arquetipos de personalidad de Carl Gustav Jung
+                  p.mb-0 #[b Figura 31]
+                  p.mb-0 Doce arquetipos de personalidad de Carl Gustav Jung
             figure
               img(src="@/assets/curso/tema2-imagen10.svg")
               figcaption Nota. Tomada de <a href="https://www.ondho.com/que-es-arquetipo-marca/" target="_blank">https://www.ondho.com/que-es-arquetipo-marca/</a>
@@ -190,7 +197,8 @@
         .row.justify-content-center.mb-4
           .col-auto
             .titulo-sexto.color-acento-contenido.mb-2
-              p.mb-0 #[b Figura 32]. Estructura narrativa
+              p.mb-0 #[b Figura 32]
+              p.mb-0 Estructura narrativa
         figure.mb-4
           img(src="@/assets/curso/tema2-imagen11.png")
         p.mb-5 Generalmente, las historias tienen un inicio o planteamiento, nudo y desenlace, clímax, resolución y cierre; aunque existen ciertos tipos de historias que no necesariamente tienen un final, sino que quedan abiertas.
@@ -277,7 +285,8 @@
               .row.justify-content-center.mb-4
                 .col-auto
                   .titulo-sexto.color-acento-contenido.mb-2
-                    p.mb-0 #[b Figura 33]. Ejemplo de luz frontal en <i>software</i> Blender
+                    p.mb-0 #[b Figura 33]
+                    p.mb-0 Ejemplo de luz frontal en <i>software</i> Blender
               figure
                 img(src="@/assets/curso/tema2-imagen12.png" style="width: 550px").m-auto
           .row.m-1
@@ -291,7 +300,8 @@
               .row.justify-content-center.mb-4
                 .col-auto
                   .titulo-sexto.color-acento-contenido.mb-2
-                    p.mb-0 #[b Figura 34]. Ejemplo de luz lateral en <i>software</i> Blender
+                    p.mb-0 #[b Figura 34]
+                    p.mb-0 Ejemplo de luz lateral en <i>software</i> Blender
               figure
                 img(src="@/assets/curso/tema2-imagen13.png" style="width: 350px").m-auto
           .row.m-1
@@ -306,7 +316,8 @@
               .row.justify-content-center.mb-4
                 .col-auto
                   .titulo-sexto.color-acento-contenido.mb-2
-                    p.mb-0 #[b Figura 35]. Ejemplo de luz cenital en <i>software</i> Blender
+                    p.mb-0 #[b Figura 35]
+                    p.mb-0 Ejemplo de luz cenital en <i>software</i> Blender
               figure
                 img(src="@/assets/curso/tema2-imagen14.png" style="width: 550px").m-auto
           .row.m-1
@@ -320,7 +331,8 @@
               .row.justify-content-center.mb-4
                 .col-auto
                   .titulo-sexto.color-acento-contenido.mb-2
-                    p.mb-0 #[b Figura 36]. Ejemplo de contraluz en <i>software</i> Blender
+                    p.mb-0 #[b Figura 36]
+                    p.mb-0 Ejemplo de contraluz en <i>software</i> Blender
               figure
                 img(src="@/assets/curso/tema2-imagen15.png" style="width: 550px").m-auto
       .py-3.py-md-4(titulo="Intensidad de la luz")
@@ -337,7 +349,8 @@
               .row.justify-content-center.mb-4
                 .col-auto
                   .titulo-sexto.color-acento-contenido.mb-2
-                    p.mb-0 #[b Figura 37]. Ejemplo de luz dura en <i>software</i> Blender
+                    p.mb-0 #[b Figura 37]
+                    p.mb-0 Ejemplo de luz dura en <i>software</i> Blender
               figure
                 img(src="@/assets/curso/tema2-imagen16.png" style="width: 550px").m-auto
           .row.m-1
@@ -351,7 +364,8 @@
               .row.justify-content-center.mb-4
                 .col-auto
                   .titulo-sexto.color-acento-contenido.mb-2
-                    p.mb-0 #[b Figura 38]. Ejemplo de luz suave en <i>software</i> Blender
+                    p.mb-0 #[b Figura 38]
+                    p.mb-0 Ejemplo de luz suave en <i>software</i> Blender
               figure
                 img(src="@/assets/curso/tema2-imagen17.png" style="width: 550px").m-auto
       .py-3.py-md-4(titulo="Aspectos importantes de las sombras")
@@ -373,7 +387,8 @@
             .row.justify-content-center.mb-4
               .col-auto
                 .titulo-sexto.color-acento-contenido.mb-2
-                  p.mb-0 #[b Figura 39]. Ejemplo de luces y sombras afectando a un grupo de objetos
+                  p.mb-0 #[b Figura 39]
+                  p.mb-0 Ejemplo de luces y sombras afectando a un grupo de objetos
             figure
               img(src="@/assets/curso/tema2-imagen18.png")
               figcaption Nota. Basada en el esquema de Ludi Arte - luz y sombra.
@@ -385,10 +400,11 @@
             .row.justify-content-center.mb-4
               .col-auto
                 .titulo-sexto.color-acento-contenido.mb-2
-                  p.mb-0 #[b Figura 40]. Triángulo de iluminación
+                  p.mb-0 #[b Figura 40]
+                  p.mb-0 Triángulo de iluminación
             figure
               img(src="@/assets/curso/tema2-imagen19.png")
-              figcaption Nota. Tomada de <a href="https://www.chamanexperience.com/fotografia/triangulo-de-iluminacion/" target="_blank">https://www.chamanexperience.com/fotografia/triangulo-de-iluminacion/</a>
+              figcaption Nota. Tomada de <a href="https://www.chamanexperience.com/fotografia/triangulo-de-iluminacion/" target="_blank">https://www.chamanexperience.com/ fotografia/triangulo-de-iluminacion/</a>
     Separador
     #t_2_4.titulo-segundo.color-acento-contenido
       h2 2.4  Guion técnico
@@ -440,7 +456,8 @@
           .row.justify-content-center.mb-3
             .col-auto
               .titulo-sexto.color-acento-contenido.mb-0
-                p.mb-0 #[b Figura 41]. <i>Storyboard Flynn</i> en el bosque <i>Gaokerena</i>
+                p.mb-0 #[b Figura 41]
+                p.mb-0 <i>Storyboard Flynn</i> en el bosque <i>Gaokerena</i>
           figure
             img(src="@/assets/curso/tema2-imagen20.png")
     .row.justify-content-center(data-aos="fade-left")
@@ -457,7 +474,8 @@
             .row.justify-content-center.mb-3
               .col-auto
                 .titulo-sexto.color-acento-contenido.mb-0
-                  p.mb-0 #[b Figura 42]. Ejemplo de <i>storyboard</i> digital
+                  p.mb-0 #[b Figura 42]
+                  p.mb-0 Ejemplo de <i>storyboard</i> digital
             figure
               img(src="@/assets/curso/tema2-imagen21.png")
     Separador
@@ -508,70 +526,70 @@
                 figure
                   img(src="@/assets/curso/tema2-imagen23.svg" style="width: 200px").m-auto
               .col-12.col-lg-9.mb-5.mb-lg-0
-                h4 Supervivencia.
+                h4 Supervivencia
                 p Son las mecánicas que, como su nombre indica, son necesarias para que el personaje se mantenga en el juego o muera, pudiendo ser, pero no limitándose a ellas, las vidas, barra de energía, nivel de sangre, nivel de hambre o sed, entre otras.
             .row.align-items-center.container-uno-color.claro.p-4.mb-5(data-aos="fade-left")
               .col-12.col-lg-3.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2-imagen24.svg" style="width: 200px").m-auto
               .col-12.col-lg-9.mb-5.mb-lg-0
-                h4 Puntaje o experiencia. 
+                h4 Puntaje o experiencia
                 p Representa el porcentaje de avance en estadísticas del personaje, en el cual está el usuario en el juego.
             .row.align-items-center.container-uno-color.p-4.mb-5(data-aos="fade-right")
               .col-12.col-lg-3.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2-imagen25.svg" style="width: 200px").m-auto
               .col-12.col-lg-9.mb-5.mb-lg-0
-                h4 Niveles. 
+                h4 Niveles
                 p Hacen parte de los puntos a alcanzar para avanzar en la evolución o mejora del personaje en el juego.
             .row.align-items-center.container-uno-color.claro.p-4.mb-5(data-aos="fade-left")
               .col-12.col-lg-3.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2-imagen26.svg" style="width: 200px").m-auto
               .col-12.col-lg-9.mb-5.mb-lg-0
-                h4 Conquista de territorios.
+                h4 Conquista de territorios
                 p Son las dinámicas principales en los juegos FPS, donde se busca conquistar un mapa o territorio.
             .row.align-items-center.container-uno-color.p-4.mb-5(data-aos="fade-right")
               .col-12.col-lg-3.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2-imagen27.svg" style="width: 200px").m-auto
               .col-12.col-lg-9.mb-5.mb-lg-0
-                h4 Entendimiento espacial.  
+                h4 Entendimiento espacial
                 p Los juegos de <i>puzzles</i> incluyen esta dinámica, en la que se busca, mediante habilidades, poder solucionar rompecabezas o acertijos.
             .row.align-items-center.container-uno-color.claro.p-4.mb-5(data-aos="fade-left")
               .col-12.col-lg-3.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2-imagen28.svg" style="width: 200px").m-auto
               .col-12.col-lg-9.mb-5.mb-lg-0
-                h4 Destrucción.
+                h4 Destrucción
                 p Son dinámicas en las que el objetivo principal es acabar con todo. Los <i>Battle Royal</i> son ejemplo de este tipo de dinámicas.
             .row.align-items-center.container-uno-color.p-4.mb-5(data-aos="fade-right")
               .col-12.col-lg-3.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2-imagen29.svg" style="width: 200px").m-auto
               .col-12.col-lg-9.mb-5.mb-lg-0
-                h4 Construcción. 
+                h4 Construcción
                 p Dinámicas en que la acción principal es que, para avanzar, se necesita crear elementos que influyen en el entorno. Ejemplo de estos juegos son <i>Dragon quest builders, Minecraft</i>.
             .row.align-items-center.container-uno-color.claro.p-4.mb-5(data-aos="fade-left")
               .col-12.col-lg-3.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2-imagen30.svg" style="width: 200px").m-auto
               .col-12.col-lg-9.mb-5.mb-lg-0
-                h4 Colección.
+                h4 Colección
                 p En esta dinámica, la finalidad es recolectar ciertos elementos para poder avanzar o ganar la partida. Se usa frecuentemente en juegos de plataforma, donde, para avanzar de nivel, se tiene que recolectar elementos como monedas o estrellas. Ejemplo de ello son juegos como <i>Little Big Planet</i>.
             .row.align-items-center.container-uno-color.p-4.mb-5(data-aos="fade-right")
               .col-12.col-lg-3.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2-imagen31.svg" style="width: 200px").m-auto
               .col-12.col-lg-9.mb-5.mb-lg-0
-                h4 Persecución o evasión. 
+                h4 Persecución o evasión
                 p Juegos en los que la finalidad es capturar o escapar de otros elementos o personajes. Se puede resaltar un juego como <i>Pacman</i>, u otros más recientes que usan esta dinámica, como <i>Grand Theft Auto</i> o <i>Saints Row</i>.
             .row.align-items-center.container-uno-color.claro.p-4.mb-5(data-aos="fade-left")
               .col-12.col-lg-3.mb-4.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2-imagen32.svg" style="width: 200px").m-auto
               .col-12.col-lg-9.mb-5.mb-lg-0
-                h4 Carreras.
+                h4 Carreras
                 p Son juegos que, como su nombre lo indica, su dinámica principal es llegar a la meta en primera posición. Entre este tipo de juegos, se pueden mencionar ejemplos como <i>Mario Kart</i> o <i>Drift</i>.
     h3.titulo-tercero Niveles de juego
     p.mb-2(data-aos="fade-down") Los niveles son una secuencia de escenarios, de principio a fin, de la historia, por donde el jugador se desplazará, dependiendo del tipo de mecánica de juego que se desea realizar.  Es decir, el espacio en el que se va a generar toda la acción, es ahí donde se van a localizar los diversos elementos que componen ese espacio. Se deben tener varios elementos en cuenta:
@@ -590,81 +608,81 @@
         | Y, también, tener los elementos que se pueden destruir, mover, tirar. Elementos que pueden esconder algún secreto, no tener nada, o facilitar el acceso a otro espacio. 
     .tarjeta.tarjeta--games.p-4(data-aos="fade-right")
       SlyderA
-        .p-5
-          .row.justify-content-center
-            .col-11
-              .pt-2.pb-1.ps-4.pe-4.container-title
-                .row
-                  .col
-                    p.mb-0 En la figura 43, de <i>Megaman</i> 10, se puede observar el recorrido de principio a fin.
-                  .col-auto
-                    .titulo-sexto.color-acento-contenido.mb-0
-                      p.mb-0 #[b Figura 43]. Ejemplo uno, escenario <i>Megaman</i> 10
+        .row.justify-content-center.m-1
+          .col-lg-11
+            .pt-2.pb-1.ps-4.pe-4.container-title
+              .row.align-items-center
+                .col-lg-8.mb-4.mb-lg-0
+                  p.mb-0 En la figura 43, de <i>Megaman</i> 10, se puede observar el recorrido de principio a fin.
+                .col-lg-4
+                  .titulo-sexto.color-acento-contenido.mb-0
+                    p.mb-0 #[b Figura 43]
+                    p.mb-0 Ejemplo uno, escenario <i>Megaman</i> 10
           figure                        
             img(src="@/assets/curso/tema2-imagen33.png")
-            figcaption Nota. Tomada de <a href="https://www.vgmaps.com/Atlas/Wii/MegaMan10-BladeMan.png" target="_blank">https://www.vgmaps.com/Atlas/Wii/MegaMan10-BladeMan.png</a>
-        .p-5
-          .row.justify-content-center
-            .col-11
-              .pt-2.pb-1.ps-4.pe-4.container-title
-                .row
-                  .col
-                    p.mb-0 En el siguiente fragmento de la figura 44, de <i>Megaman</i> 10, se puede observar uno de los espacios por donde debe pasar #[i Megaman], aquí inicia la historia y el personaje realiza saltos para poder avanzar al siguiente nivel.
-                  .col-auto
-                    .titulo-sexto.color-acento-contenido.mb-0
-                      p.mb-0 #[b Figura 44]. Ejemplo dos, escenario <i>Megaman</i> 10
-          figure
-            img(src="@/assets/curso/tema2-imagen34.png")
-            figcaption Fragmento tomado de <a href="https://www.vgmaps.com/Atlas/Wii/MegaMan10-BladeMan.png" target="_blank">https://www.vgmaps.com/Atlas/Wii/MegaMan10-BladeMan.png</a>
-        .p-5
-          .row.justify-content-center
-            .col-12.col-md-10
-              .row.justify-content-center
-                .col-11
-                  .pt-2.pb-1.ps-4.pe-4.container-title
-                    p.mb-0 En la figura 45, se puede ver que en el piso hay unos pinchos, si el personaje cae en esas zonas, automáticamente muere; también, al final del nivel, se pueden observar unas escaleras para pasar al siguiente nivel.
-              figure
-                img(src="@/assets/curso/tema2-imagen35.png")
-                figcaption Fragmento tomado de <a href="https://www.vgmaps.com/Atlas/Wii/MegaMan10-BladeMan.png" target="_blank">https://www.vgmaps.com/Atlas/Wii/MegaMan10-BladeMan.png</a>
-              .row.justify-content-center
-                .col-11
-                  .pt-2.pb-1.ps-4.pe-4.container-title.bottom
-                    .row.justify-content-center
-                      .col-auto
-                        .titulo-sexto.color-acento-contenido.mb-0
-                          p.mb-0 #[b Figura 45]. Ejemplo tres, escenario <i>Megaman</i> 10
-        .p-5
-          .row.justify-content-center
-            .col-12.col-lg-6
-              .row.justify-content-center
-                .col-11
-                  .pt-2.pb-1.ps-4.pe-4.container-title
-                    p.mb-0 En la figura 46, se observa el enemigo mayor ante el que se debe pelear, y es el último nivel por el que se atraviesa.
-              figure      
-                img(src="@/assets/curso/tema2-imagen36.png")
-                figcaption Fragmento tomado de <a href="https://www.vgmaps.com/Atlas/Wii/MegaMan10-BladeMan.png" target="_blank">https://www.vgmaps.com/Atlas/Wii/MegaMan10-BladeMan.png</a>
-              .row.justify-content-center
-                .col-11
-                  .pt-2.pb-1.ps-4.pe-4.container-title.bottom
-                    .row.justify-content-center
-                      .col-auto
-                        .titulo-sexto.color-acento-contenido.mb-0
-                          p.mb-0 #[b Figura 46]. Ejemplo cuatro, nivel final <i>Megaman</i> 10
-        .p-5
-          .row.justify-content-center
-            .col-12.col-md-10
-              .row.justify-content-center
-                .col-11
-                  .pt-2.pb-1.ps-4.pe-4.container-title
-                    p.mb-0 En todos estos niveles, finalmente, se le agregan los NPC enemigos y el resto de obstáculos que complementan la dificultad de los recorridos, lo que aumenta el ritmo de juego.
-              img(src="@/assets/curso/tema2-imagen37.png")
-              .row.justify-content-center
-                .col-11
-                  .pt-2.pb-1.ps-4.pe-4.container-title.bottom
-                    .row.justify-content-center
-                      .col-auto
-                        .titulo-sexto.color-acento-contenido.mb-0
-                          p.mb-0 #[b Figura 47]. Niveles de un videojuego
+            figcaption Nota. Tomada de <a href="https://www.vgmaps.com/Atlas/Wii/MegaMan10-BladeMan.png" target="_blank">https://www.vgmaps.com/Atlas/Wii /MegaMan10-BladeMan.png</a>
+        .row.justify-content-center.m-1
+          .col-lg-11
+            .pt-2.pb-1.ps-4.pe-4.container-title
+              .row.align-items-center
+                .col-lg-8.mb-4.mb-lg-0
+                  p.mb-0 En el siguiente fragmento de la figura 44, de <i>Megaman</i> 10, se puede observar uno de los espacios por donde debe pasar #[i Megaman], aquí inicia la historia y el personaje realiza saltos para poder avanzar al siguiente nivel.
+                .col-lg-4
+                  .titulo-sexto.color-acento-contenido.mb-0
+                    p.mb-0 #[b Figura 44]
+                    p.mb-0 Ejemplo dos, escenario <i>Megaman</i> 10
+            figure
+              img(src="@/assets/curso/tema2-imagen34.png")
+              figcaption Fragmento tomado de <a href="https://www.vgmaps.com/Atlas/Wii/MegaMan10-BladeMan.png" target="_blank">https://www.vgmaps.com/Atlas /Wii/MegaMan10-BladeMan.png</a>
+        .row.justify-content-center.m-1
+          .col-lg-7
+            .row.justify-content-center
+              .col-11
+                .pt-2.pb-1.ps-4.pe-4.container-title
+                  p.mb-0 En la figura 45, se puede ver que en el piso hay unos pinchos, si el personaje cae en esas zonas, automáticamente muere; también, al final del nivel, se pueden observar unas escaleras para pasar al siguiente nivel.
+            figure
+              img(src="@/assets/curso/tema2-imagen35.png")
+              figcaption Fragmento tomado de <a href="https://www.vgmaps.com/Atlas/Wii/MegaMan10-BladeMan.png" target="_blank">https://www.vgmaps.com/ Atlas/Wii/MegaMan10-BladeMan.png</a>
+            .row.justify-content-center
+              .col-11
+                .pt-2.pb-1.ps-4.pe-4.container-title.bottom
+                  .row.justify-content-center
+                    .col-auto
+                      .titulo-sexto.color-acento-contenido.mb-0
+                        p.mb-0 #[b Figura 45]
+                        p.mb-0 Ejemplo tres, escenario <i>Megaman</i> 10
+        .row.justify-content-center.m-1
+          .col-lg-6
+            .row.justify-content-center
+              .col-11
+                .pt-2.pb-1.ps-4.pe-4.container-title
+                  p.mb-0 En la figura 46, se observa el enemigo mayor ante el que se debe pelear, y es el último nivel por el que se atraviesa.
+            figure      
+              img(src="@/assets/curso/tema2-imagen36.png")
+              figcaption Fragmento tomado de <a href="https://www.vgmaps.com/Atlas/Wii/MegaMan10-BladeMan.png" target="_blank">https://www.vgmaps.com/Atlas /Wii/MegaMan10-BladeMan.png</a>
+            .row.justify-content-center
+              .col-11
+                .pt-2.pb-1.ps-4.pe-4.container-title.bottom
+                  .row.justify-content-center
+                    .col-auto
+                      .titulo-sexto.color-acento-contenido.mb-0
+                        p.mb-0 #[b Figura 46]
+                        p.mb-0 Ejemplo cuatro, nivel final <i>Megaman</i> 10
+        .row.justify-content-center.m-1
+          .col-lg-6
+            .row.justify-content-center
+              .col-11
+                .pt-2.pb-1.ps-4.pe-4.container-title
+                  p.mb-0 En todos estos niveles, finalmente, se le agregan los NPC enemigos y el resto de obstáculos que complementan la dificultad de los recorridos, lo que aumenta el ritmo de juego.
+            img(src="@/assets/curso/tema2-imagen37.png")
+            .row.justify-content-center
+              .col-11
+                .pt-2.pb-1.ps-4.pe-4.container-title.bottom
+                  .row.justify-content-center
+                    .col-auto
+                      .titulo-sexto.color-acento-contenido.mb-0
+                        p.mb-0 #[b Figura 47]
+                        p.mb-0 Niveles de un videojuego
 
 </template>
 

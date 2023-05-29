@@ -11,7 +11,7 @@
       p.mb-0 Los videojuegos responden a la acción que realiza un jugador por medio de unos mandos que se encuentran conectados a una máquina. En un principio, se destacaron como principales desarrolladores Estados Unidos, con el Atari, y Japón, con Nintendo. A continuación, se puede observar la historia de los videojuegos:
     .tarjeta.tarjeta--gris.p-4(data-aos="fade-left")
       LineaTiempoC.color-acento-contenido
-        .row.px-5(titulo="Años 50")
+        .row.px-4(titulo="Años 50")
           p Se puede atribuir a William Higinbotham como el primero en crear un videojuego, quien trabajó en los años 30 activamente en el desarrollo de un radar en la Segunda Guerra Mundial. Por lo tanto, en los años 50, hizo uso de un radar y lo adaptó, gracias a sus conocimientos en electrónica y física, creando el juego 
             strong <i>“Tennis for Two”</i>
             | , el cual funcionaba con una perilla que se podía girar a la izquierda o a la derecha, para ajustar la trayectoria de la pelota de <i>ping pong</i>. 
@@ -33,7 +33,7 @@
                 img(src='@/assets/curso/tema1-imagen2.jpg')
               p.mb-0.text-center
                 strong #[i Oxo]
-        div.px-5(titulo="1972")
+        div.px-4(titulo="1972")
           p.mb-5 En 1972, nace #[i #[b Pong]], de Nolan Bushnell, al parecer basado en la misma lógica de <strong><i>Tennis for Two</i></strong>, aunque en vista superior y una mecánica muy similar, creando a partir de aquí a Atari, una empresa que empezó a distribuir máquinas en Estados Unidos. 
             br
             br
@@ -45,7 +45,7 @@
                   img(src='@/assets/curso/tema1-imagen3.jpg')
                 p.mb-0.text-center
                   strong <i>Pong</i>
-        div.px-5(titulo="1978")
+        div.px-4(titulo="1978")
           p.mb-5 A su vez, en Japón, en 1978, por la empresa Taito, surge #[b #[i Space Invaders]], uno de los grandes referentes de los videojuegos. 
             br
             | Namco crea, en 1980, uno de los juegos más icónicos del mercado: #[b #[i Pacman]].
@@ -62,7 +62,7 @@
                   img(src='@/assets/curso/tema1-imagen5.jpg')
                 p.mb-0.text-center
                   strong <i>Pacman</i>
-        div.px-5(titulo="1981")
+        div.px-4(titulo="1981")
           p.mb-5 Posterior a ellos, Nintendo, una empresa que se encarga de crear naipes, decide aventurarse en el desarrollo de la tecnología de los videojuegos, contratando a Shigeru Miyamoto, quien en 1981 creó a <strong><i>Donkey Kong</i></strong>, un gorila que tiene capturada a una princesa que debe ser rescatada por <i>Jumpman</i>, quien posteriormente se convierte en el famoso #[b #[i Mario Bros]].
           .row.justify-content-center
             .col-8.col-lg-4
@@ -71,7 +71,7 @@
                   img(src='@/assets/curso/tema1-imagen6.jpg')
                 p.mb-0.text-center
                   strong <i>Donkey Kong</i>
-        div.px-5(titulo="1982")
+        div.px-4(titulo="1982")
           p.mb-5 En el año 1982, cuatro trabajadores de la empresa Atari deciden renunciar, porque no se consideraban valorados por la empresa, después de que esta fue vendida a la Warner, y juntos crean la empresa Activision, lanzando el primer videojuego de plataformas, #[b #[i Pitfall]]. 
           .row.justify-content-center
             .col-8.col-lg-4
@@ -80,7 +80,7 @@
                   img(src='@/assets/curso/tema1-imagen7.jpg')
                 p.mb-0.text-center
                   strong <i>Pitfall</i>
-        div.px-5(titulo="1985")
+        div.px-4(titulo="1985")
           p.mb-5 En los años 80, en Estados Unidos, los videojuegos tienen una caída considerable; por ello, llega Japón al rescate y, en 1985, Nintendo  posiciona uno de los juegos más icónicos de la historia, #[b #[i Super Mario Bros]].,  que viene del juego #[b #[i Donkey Kong]]. El mismo diseñador crea después #[b #[i Zelda]], la historia de un niño que se mueve en el campo y avanza explorando diversos sitios. 
           .row.justify-content-center
             .col-12.col-lg-10
@@ -89,7 +89,7 @@
                   img(src='@/assets/curso/tema1-imagen8.jpg')
                 p.mb-0.text-center
                   strong <i>Super Mario Bros.</i>
-        div.px-5(titulo="1987")
+        div.px-4(titulo="1987")
           p.mb-5 En 1987, la empresa Capcom crea #[b #[i Street Fighter]] y otros títulos más. Asimismo, otra empresa importante, Konami, crea #[b #[i Contra]].
             br
             br
@@ -101,7 +101,7 @@
                   img(src='@/assets/curso/tema1-imagen9.jpg')
                 p.mb-0.text-center
                   strong <i>Maniac Mansion</i>
-        div.px-5(titulo="1988")
+        div.px-4(titulo="1988")
           p.mb-5 En 1988, Nintendo decide crear una consola portátil, llamada Gameboy, cuyo juego estrella es el #[b #[i Tetris]], que fue creado en Rusia, por Alexey Pajitnov, quien trabajaba para una empresa rusa, que distribuye el juego, y, finalmente, llega a manos de Nintendo.
           .row.justify-content-center
             .col-9.col-lg-4
@@ -110,7 +110,7 @@
                   img(src='@/assets/curso/tema1-imagen10.jpg')
                 p.mb-0.text-center
                   strong <i>Tetris</i>
-        div.px-5(titulo="1991")
+        div.px-4(titulo="1991")
           p.mb-5 Sega, después de mucha competencia con Nintendo, crea #[b #[i Sonic]], en 1991, uno de sus íconos estrella.
             br
             br
@@ -122,7 +122,7 @@
                   img(src='@/assets/curso/tema1-imagen11.jpg')
                 p.mb-0.text-center
                   strong <i>Sonic</i>
-        div.px-5(titulo="1992")
+        div.px-4(titulo="1992")
           p.mb-5 Id Software creó juegos que rápidamente se usaron en computadoras, como #[b #[i Wolfenstein] 3D] y #[b #[i Doom]] juegos en primera persona tipo <i>shooter</i> que tenían una vista y recorrido en 3D creado en 1992 y 1993 respectivamente. 
           .row.justify-content-center
             .col-12.col-lg-6
@@ -158,7 +158,7 @@
                   img(src='@/assets/curso/tema1-imagen14.jpg')
                 p.mb-0.text-center
                   strong <i>Halo</i>
-        div.px-5(titulo="2004")
+        div.px-4(titulo="2004")
           p.mb-5 En el año 2004, #[b #[i World of the Warcraft]], el cual es la cuarta saga de una serie que evoluciona como multijugador masivo de tiempo real.
             br
             br
@@ -170,7 +170,7 @@
                   img(src='@/assets/curso/tema1-imagen15.jpg')
                 p.mb-0.text-center
                   strong <i>World of the Warcraft</i>
-        div.px-5(titulo="2009")
+        div.px-4(titulo="2009")
           p.mb-5 En adelante a los años 2000, se ve un desarrollo muy alto en la calidad y jugabilidad, mejorando día a día en cada una de las entregas.
             br
             br
@@ -192,7 +192,8 @@
     .row(data-aos="fade-down")
       .col-auto
         .titulo-sexto.color-acento-contenido.w-auto
-          p.mb-0 #[b Figura 1]. #[i Pipeline] videojuego
+          p.mb-0 #[b Figura 1] 
+          p.mb-0 #[i Pipeline] videojuego
     figure.mb-5(data-aos="fade-down")
       img(src='@/assets/curso/tema1-imagen17.svg')
     .row.justify-content-center(data-aos="fade-left")
@@ -216,9 +217,9 @@
     .mb-4.px-4.py-3.texto-color-offset-top-left-2.color-secundario(data-aos="fade-right")
       p.mb-0 Aquí se mencionan algunos de los videojuegos más sobresalientes elaborados por empresas colombianas, algunos ganadores de diferentes premios, como también catalogados entre los más descargados. Cabe aclarar que no son todos los videojuegos realizados en el país:
     .p-0(data-aos="fade-left")
-      .tarjeta.tarjeta--games.p-4
+      .tarjeta.tarjeta--games.p-5
         SlyderA
-          .row.justify-content-center.p-5
+          .row.justify-content-center
             .col-12.col-lg-6.mb-5.mb-lg-0
               .h5 #[i Audio Ninja]
               p.mb-0 Es un juego con estética 2D, cuyo fin es derrotar enemigos presionando botones en la pantalla para ir atacándolos al ritmo de la música. Fue diseñado para la plataforma Apple Store en el 2013, por la compañía Cocodrilo Dog, quedando como subcampeón en la categoría #[i Game runner up] en el mismo año.
@@ -227,11 +228,12 @@
                 .col-auto
                   .pt-2.pb-1.ps-4.pe-4.container-title
                     .titulo-sexto.color-acento-contenido.mb-0
-                      p.mb-0 #[b Figura 2]. Videojuego #[i Audio Ninja]
+                      p.mb-0 #[b Figura 2]
+                      p.mb-0 Videojuego #[i Audio Ninja]
               figure.especial(style="max-height: 235px")
                 img(src="@/assets/curso/tema1-imagen20.jpg")
-                figcaption Tomada de <a href="https://www.cocodrilodog.com/web/#audioninja" target="_blank">https://www.cocodrilodog.com/web/#audioninja</a>
-          .row.justify-content-center.p-5
+                figcaption Tomada de <a href="https://www.cocodrilodog.com/web/#audioninja" target="_blank">https://www.cocodrilodog.com/ web/#audioninja</a>
+          .row.justify-content-center
             .col-12.col-lg-6.mb-5.mb-lg-0
               .h5 <i>Grabbity</i>
               p.mb-0 En 2013, Efecto Studios lanzó este juego, el cual cuenta con una estética en 2D bien contrastada, donde el personaje resalta, pues este es de color negro y se mueve a través de un mundo de laberintos totalmente coloridos, esquivando los obstáculos que se le presentan en el camino; haciendo uso del acelerómetro incorporado en el celular o #[i tablet].
@@ -240,11 +242,12 @@
                 .col-auto
                   .pt-2.pb-1.ps-4.pe-4.container-title
                     .titulo-sexto.color-acento-contenido.mb-0
-                      p.mb-0 #[b Figura 3]. Videojuego <i>Grabbity</i>
+                      p.mb-0 #[b Figura 3]
+                      p.mb-0 Videojuego <i>Grabbity</i>
               figure.especial(style="max-height: 235px")
                 img(src="@/assets/curso/tema1-imagen21.jpg")
-                figcaption Nota. Tomada de <a href="https://www.xataka.com.co/videojuegos/grabbity-un-divertido-juego-que-hara-girar-sin-control" target="_blank">https://www.xataka.com.co/videojuegos/grabbity-un-divertido-juego-que-hara-girar-sin-control</a>
-          .row.justify-content-center.p-5
+                figcaption Nota. Tomada de <a href="https://www.xataka.com.co/videojuegos/grabbity-un-divertido-juego-que-hara-girar-sin-control" target="_blank">https://www.xataka.com.co/ videojuegos/grabbity-un-divertido -juego-que-hara-girar-sin-control</a>
+          .row.justify-content-center
             .col-12.col-lg-6.mb-5.mb-lg-0
               .h5 <i>Poltergeist: a Pixelated horror</i>
               p.mb-0 En este juego tipo #[i puzzle] en 2D, creado bajo la técnica pixel art, en vista isométrica, el jugador debe asumir el papel de Henry B. Knight, un fantasma que tiene por objetivo hacer huir a la familia que vive en su antigua mansión. Fue creado por el estudio Glitchy Pixel y se lanzó al mercado en el año 2014.
@@ -253,11 +256,12 @@
                 .col-auto
                   .pt-2.pb-1.ps-4.pe-4.container-title
                     .titulo-sexto.color-acento-contenido.mb-0
-                      p.mb-0 #[b Figura 4]. Videojuego <i>Poltergeist</i>
+                      p.mb-0 #[b Figura 4]
+                      p.mb-0 Videojuego <i>Poltergeist</i>
               figure
                 img(src="@/assets/curso/tema1-imagen22.jpg" style="width: 350px").m-auto
                 figcaption Nota. Tomada de <i>Poltergeist: A Pixelated Horror</i> sur PS Vita @JVL <a href="https://www.jeuxvideo-live.com" target="_blank">(jeuxvideo-live.com)</a>
-          .row.justify-content-center.p-5
+          .row.justify-content-center
             .col-12.col-lg-6.mb-5.mb-lg-0
               .h5 <i>Story Warriors: Fairy Tales</i> (2015) 
               p.mb-0 Creado en el año 2015, por la empresa colombiana Below The Games (BTG), fundada por Carlos Rocha, trata de una aventura interactiva tipo puzzle, que narra interesantes cuentos de hadas, lo cual lo convierte en una atractiva forma de leer para los niños, ya que mezcla el entretenimiento con lo educativo.
@@ -266,11 +270,12 @@
                 .col-auto
                   .pt-2.pb-1.ps-4.pe-4.container-title
                     .titulo-sexto.color-acento-contenido.mb-0
-                      p.mb-0 #[b Figura 5]. Videojuego <i>Story Warriors</i>
+                      p.mb-0 #[b Figura 5]
+                      p.mb-0 Videojuego <i>Story Warriors</i>
               figure.especial(style="max-height: 235px")
                 img(src="@/assets/curso/tema1-imagen23.jpg")
                 figcaption Nota. Tomada de <a href="https://twitter.com/SWFairyTales/status/577462629402353664/photo/2" target="_blank">SW: Fairy Tales (@SWFairyTales) / Twitter</a>
-          .row.justify-content-center.p-5
+          .row.justify-content-center
             .col-12.col-lg-6.mb-5.mb-lg-0
               .h5 <i>Neon Fury</i> (2017) 
               p.mb-0 Es un juego de defensa de torres, creado para la realidad virtual, en el que se destacan sus gráficos en 3D y que se desarrolla en un escenario retro futurista. Fue diseñado por Teravision Games, compañía que ha venido creando contenido para reconocidas empresas, como Namco, Atari, Disney, Nickelodeon, Unicef, Natgeo y Discovery.
@@ -279,11 +284,12 @@
                 .col-auto
                   .pt-2.pb-1.ps-4.pe-4.container-title
                     .titulo-sexto.color-acento-contenido.mb-0
-                      p.mb-0 #[b Figura 6]. Videojuego #[i Neon Fury]
+                      p.mb-0 #[b Figura 6]
+                      p.mb-0 Videojuego #[i Neon Fury]
               figure.especial(style="max-height: 235px")
                 img(src="@/assets/curso/tema1-imagen24.jpg")
                 figcaption Nota. Tomada de  Colombia apuesta a pleno por los videojuegos – <i>Gaming And Media</i>.
-          .row.justify-content-center.p-5
+          .row.justify-content-center
             .col-12.col-lg-6.mb-5.mb-lg-0
               .h5 <i>World War Doh</i> 
               p.mb-0 Es un juego cuyos personajes parecen elaborados en un <i>software</i> 3D, pero realmente usaron la técnica de la plastilina y el <i>stop motion</i> para generar las animaciones. Este es un juego que pertenece a la empresa Jam City, que compró la empresa Brainz. Su primera versión salió en el año 2017, para celulares.
@@ -292,11 +298,12 @@
                 .col-auto
                   .pt-2.pb-1.ps-4.pe-4.container-title
                     .titulo-sexto.color-acento-contenido.mb-0
-                      p.mb-0 #[b Figura 7]. Videojuego <i>World War Doh</i>
+                      p.mb-0 #[b Figura 7]
+                      p.mb-0 Videojuego <i>World War Doh</i>
               figure.especial(style="max-height: 235px")
                 img(src="@/assets/curso/tema1-imagen25.jpg")
                 figcaption Nota. Tomada de <a href="https://twitter.com/WorldWarDoh" target="_blank">https://twitter.com/WorldWarDoh</a>
-          .row.justify-content-center.p-5
+          .row.justify-content-center
             .col-12.col-lg-6.mb-5.mb-lg-0
               .h5 <i>Ark: Survival Evolved</i>
               p.mb-0 Es un juego que se ambienta en una isla en la que deambulan animales prehistóricos, los cuales deben ser domados o cazados. Ahí se debe sobrevivir a como dé lugar. Desarrollado por gráficos en 3D, lanzado en el año 2017. Se puede jugar en cualquier plataforma, IOS, Android, consola, PC. Además, es un juego multijugador, que funciona en línea. 
@@ -305,11 +312,12 @@
                 .col-auto
                   .pt-2.pb-1.ps-4.pe-4.container-title
                     .titulo-sexto.color-acento-contenido.mb-0
-                      p.mb-0 #[b Figura 8]. Videojuego <i>Ark: Survival Evolved</i>
+                      p.mb-0 #[b Figura 8]
+                      p.mb-0 Videojuego <i>Ark: Survival Evolved</i>
               figure.especial(style="max-height: 235px")
                 img(src="@/assets/curso/tema1-imagen26.jpg")
                 figcaption Nota. Tomada de Studio Wildcard.
-          .row.justify-content-center.p-5
+          .row.justify-content-center
             .col-12.col-lg-6.mb-5.mb-lg-0
               .h5 <i>Haimrik</i> (2018)  
               p.mb-0 #[b #[i Haimrik]] fue creado por la compañía Below The Game (BTG) y una empresa rusa en el año 2018, alcanzando un importante avance en cuanto a propiedad intelectual para Colombia, ya que se logró lanzar para plataformas como Xbox One, Playstation 4 y PC en Steam. Se trata de un videojuego en 2D de acción y aventuras, ubicado en escenarios del Medioevo, mezcla el entretenimiento con lo educativo, ya que el objetivo del jugador es derrotar a los enemigos usando las palabras correctas para resolver los rompecabezas presentes en cada nivel. 
@@ -318,11 +326,12 @@
                 .col-auto
                   .pt-2.pb-1.ps-4.pe-4.container-title
                     .titulo-sexto.color-acento-contenido.mb-0
-                      p.mb-0 #[b Figura 9]. Videojuego <i>Haimrik</i>
+                      p.mb-0 #[b Figura 9]
+                      p.mb-0 Videojuego <i>Haimrik</i>
               figure.especial(style="max-height: 235px")
                 img(src="@/assets/curso/tema1-imagen27.jpg")
                 figcaption Nota. Tomada de <a href="https://www.3djuegos.com/26211/haimrik/#-img-3452317-26211-0-0" target="_blank"><i>Haimrik</i> para PC - 3DJuegos</a>
-          .row.justify-content-center.p-5
+          .row.justify-content-center
             .col-12.col-lg-6.mb-5.mb-lg-0
               .h5 #[i Un cabrón en Transmilenio ]
               p.mb-0 Desarrollado por Black Mamba Studio en el 2019, es un sencillo videojuego de acción, en el que el jugador, representado por un cabrito, debe bajarse  en su parada de destino abriéndose paso a través de vacas y cerdos que representan a los demás pasajeros, antes de que las puertas del Transmilenio se cierren. 
@@ -333,11 +342,12 @@
                 .col-auto
                   .pt-2.pb-1.ps-4.pe-4.container-title
                     .titulo-sexto.color-acento-contenido.mb-0
-                      p.mb-0 #[b Figura 10]. Videojuego #[i Un cabrón en Transmilenio]
+                      p.mb-0 #[b Figura 10]
+                      p.mb-0 Videojuego #[i Un cabrón en Transmilenio]
               figure.especial(style="max-height: 235px")
                 img(src="@/assets/curso/tema1-imagen28.jpg")
                 figcaption Tomada de <a href="https://black-mamba-studio.itch.io/un-cabron-en-transmilenio" target="_blank"> #[i Un Cabrón en Transmilenio by] Black Mamba Studio, QuietGecko, prinfrexita, Carenalga (itch.io)</a>
-          .row.justify-content-center.p-5
+          .row.justify-content-center
             .col-12.col-lg-6.mb-5.mb-lg-0
               .h5 <i>Captain Toonhead </i>
               p.mb-0 #[b #[i Captain Toonhead]] es una mejora al juego Neon Fury (2013), creada por Teravision Games, que se lanzará en 2021. Se trata de un juego de realidad virtual, con excelentes gráficos en 3D, desarrollado para dispositivos VR de alta gama (PSVR, Vive, Quest y Rift), en el que el jugador debe usar su armamento y su habilidad en la construcción de torres para defender su base de enemigos cibernéticos.
@@ -346,11 +356,12 @@
                 .col-auto
                   .pt-2.pb-1.ps-4.pe-4.container-title
                     .titulo-sexto.color-acento-contenido.mb-0
-                      p.mb-0 #[b Figura 11]. Videojuego <i>Captain Toonhead</i>
+                      p.mb-0 #[b Figura 11]
+                      p.mb-0 Videojuego <i>Captain Toonhead</i>
               figure.especial(style="max-height: 235px")
                 img(src="@/assets/curso/tema1-imagen29.jpg")
-                figcaption Nota. Tomada de <a href="https://teravisiongames.com/site/captain-toonhead/" target="_blank">https://teravisiongames.com/site/captain-toonhead/</a>
-          .row.justify-content-center.p-5
+                figcaption Nota. Tomada de <a href="https://teravisiongames.com/site/captain-toonhead/" target="_blank">https://teravisiongames.com/ site/captain-toonhead/</a>
+          .row.justify-content-center
             .col-12.col-lg-6.mb-5.mb-lg-0
               .h5 #[i Cristales] 
               p.mb-0 Es un juego tipo JRPG clásico, que se estrena este verano de 2021. Este es un juego de tipo exploración, en el que se mezclan los tiempos pasado, presente y futuro. Realizado con una estética 2D, elaborado cuadro por cuadro. Desarrollado por Dreams Uncorporated, juego que se puede jugar en diversas consolas y en computadora.
@@ -359,7 +370,8 @@
                 .col-auto
                   .pt-2.pb-1.ps-4.pe-4.container-title
                     .titulo-sexto.color-acento-contenido.mb-0
-                      p.mb-0 #[b Figura 12]. Videojuego #[i Cristales]
+                      p.mb-0 #[b Figura 12]
+                      p.mb-0 Videojuego #[i Cristales]
               figure.especial(style="max-height: 235px")
                 img(src="@/assets/curso/tema1-imagen30.jpg")
                 figcaption Nota. Tomada de <a href="https://modusgames.com/cris-tales/" target="_blank">https://modusgames.com/cris-tales/</a>
@@ -382,10 +394,11 @@
           .row.justify-content-center
             .col-auto
               .titulo-sexto.color-acento-contenido
-                p.mb-0 #[b Figura 13]. Videojuego <i>Final Fight</i>
+                p.mb-0 #[b Figura 13]
+                p.mb-0 Videojuego <i>Final Fight</i>
           figure
             img(src='@/assets/curso/tema1-imagen32.jpg')
-            figcaption Nota. Tomada de <a href="https://www.hobbyconsolas.com/reportajes/mejores-juegos-beat-em-retro-historia-83324" target="_blank">https://www.hobbyconsolas.com/reportajes/mejores-juegos-beat-em-retro-historia-83324</a>
+            figcaption Nota. Tomada de <a href="https://www.hobbyconsolas.com/reportajes/mejores-juegos-beat-em-retro-historia-83324" target="_blank">https://www.hobbyconsolas.com/ reportajes/mejores-juegos-beat -em-retro-historia-83324</a>
       .row.p-3(titulo="Juegos FPS ")
         .col-lg-7.mb-4.mb-md-0
           p En este género, la cámara se sitúa en la cabeza del personaje, en plano subjetivo, lo que da la sensación de que la vista del personaje es la vista del usuario. Como característica principal está el hecho de que, en su mayoría, este tipo de juegos optan por una acción frenética, donde se acentúan los reflejos y la precisión, como también, en algunos casos, aumenta la inmersión, al verse los objetos a gran detalle. Algunos ejemplos son <i>Doom, Halo</i> y <i>Quake</i>.
@@ -393,7 +406,8 @@
           .row.justify-content-center
             .col-auto
               .titulo-sexto.color-acento-contenido
-                p.mb-0 #[b Figura 14]. Videojuego <i>Doom</i>
+                p.mb-0 #[b Figura 14]
+                p.mb-0 Videojuego <i>Doom</i>
           figure
             img(src='@/assets/curso/tema1-imagen33.jpg')
             figcaption Nota. Tomada de <a href="https://bethesda.net/es/game/doom" target="blank">https://bethesda.net/es/game/doom</a>
@@ -404,7 +418,8 @@
           .row.justify-content-center
             .col-auto
               .titulo-sexto.color-acento-contenido
-                p.mb-0 #[b Figura 15]. Videojuego <i>Super Mario Bros</i>.
+                p.mb-0 #[b Figura 15]
+                p.mb-0 Videojuego <i>Super Mario Bros</i>.
           figure
             img(src='@/assets/curso/tema1-imagen34.jpg')
             figcaption Nota. Tomada de <a target="_blank" href="https://www.nintendo.es/Juegos/NES/Super-Mario-Bros--803853.html">https://www.nintendo.es/Juegos/NES/Super-Mario-Bros--803853.html</a>
@@ -415,7 +430,8 @@
           .row.justify-content-center
             .col-auto
               .titulo-sexto.color-acento-contenido
-                p.mb-0 #[b Figura 16]. Videojuego <i>Flight Simulator</i>
+                p.mb-0 #[b Figura 16]
+                p.mb-0 Videojuego <i>Flight Simulator</i>
           figure
             img(src='@/assets/curso/tema1-imagen35.jpg')
             figcaption Nota. Tomada de <a href="https://www.xbox.com/es-CO/games/microsoft-flight-simulator" target="_blank">https://www.xbox.com/es-CO/games/microsoft-flight-simulator</a>
@@ -426,7 +442,8 @@
           .row.justify-content-center
             .col-auto
               .titulo-sexto.color-acento-contenido
-                p.mb-0 #[b Figura 17]. Videojuego <i>Fifa</i> 21
+                p.mb-0 #[b Figura 17]
+                p.mb-0 Videojuego <i>Fifa</i> 21
           figure
             img(src='@/assets/curso/tema1-imagen36.jpg')
             figcaption Nota. Tomada de <a href="https://www.ea.com/es-es/games/fifa/fifa-21/media-hub/media/fifa-21-next-level-scenes-row" target="_blank">https://www.ea.com/es-es/games/fifa/fifa-21/media-hub/media/fifa-21-next-level-scenes-row</a>
@@ -437,7 +454,8 @@
           .row.justify-content-center
             .col-auto
               .titulo-sexto.color-acento-contenido
-                p.mb-0 #[b Figura 18]. Videojuego <i>Age of Empires</i>
+                p.mb-0 #[b Figura 18]
+                p.mb-0 Videojuego <i>Age of Empires</i>
           figure
             img(src='@/assets/curso/tema1-imagen37.jpg')
             figcaption Nota. Tomada de  <a href="https://www.ageofempires.com/games/age-of-empires-iv/" target="_blank">https://www.ageofempires.com/games/age-of-empires-iv/</a>
@@ -448,7 +466,8 @@
           .row.justify-content-center
             .col-auto
               .titulo-sexto.color-acento-contenido
-                p.mb-0 #[b Figura 19]. Videojuego <i>The Legend of Zelda: Breath of the Wild</i>
+                p.mb-0 #[b Figura 19]
+                p.mb-0 Videojuego <i>The Legend of Zelda: Breath of the Wild</i>
           figure
             img(src='@/assets/curso/tema1-imagen38.jpg')
             figcaption Nota. Tomada de  <a href="https://www.zelda.com/breath-of-the-wild/es/media" target="_blank">https://www.zelda.com/breath-of-the-wild/es/media</a>
@@ -459,7 +478,8 @@
           .row.justify-content-center
             .col-auto
               .titulo-sexto.color-acento-contenido
-                p.mb-0 #[b Figura 20]. Videojuego <i>The Witcher 3: Wild Hunt</i>
+                p.mb-0 #[b Figura 20]
+                p.mb-0 Videojuego <i>The Witcher 3: Wild Hunt</i>
           figure
             img(src='@/assets/curso/tema1-imagen39.jpg')
             figcaption Nota. Tomada de  <a href="https://thewitcher.com/en/witcher3" target="_blank">https://thewitcher.com/en/witcher3</a>
@@ -470,7 +490,8 @@
           .row.justify-content-center
             .col-auto
               .titulo-sexto.color-acento-contenido
-                p.mb-0 #[b Figura 21]. Videojuego <i>Angry Birds 2</i>
+                p.mb-0 #[b Figura 21]
+                p.mb-0 Videojuego <i>Angry Birds 2</i>
           figure
             img(src='@/assets/curso/tema1-imagen40.jpg')
             figcaption Nota. Tomada de <a href="https://www.rovio.com/games/angry-birds-2/" target="_blank">https://www.rovio.com/games/angry-birds-2/</a>
@@ -490,7 +511,8 @@
                 .row.justify-content-center
                   .col-auto
                     .titulo-sexto.color-acento-contenido
-                      p.mb-0 #[b Figura 22]. Gráfica de clasificaciones en los videojuegos <i>PEGI</i>
+                      p.mb-0 #[b Figura 22]
+                      p.mb-0 Gráfica de clasificaciones en los videojuegos <i>PEGI</i>
                 figure
                   img(src="@/assets/curso/tema1-imagen42.svg")
                   figcaption Nota. Tomada de <a class="text-wrap" target="_blank" href="https://www.divulgaciondinamica.es/blog/que-es-pegi-videojuegos/">https://www.divulgaciondinamica.es/blog/que-es-pegi-videojuegos/</a>
@@ -506,7 +528,8 @@
                 .row.justify-content-center
                   .col-auto
                     .titulo-sexto.color-acento-contenido
-                      p.mb-0 #[b Figura 23]. Gráfica de clasificaciones en los videojuegos ESRB
+                      p.mb-0 #[b Figura 23]
+                      p.mb-0 Gráfica de clasificaciones en los videojuegos ESRB
                 figure
                   img(src="@/assets/curso/tema1-imagen44.svg")
                   figcaption Nota. Tomada de <a target="_blank" href="https://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/senalradionica/articulo-noticia/galeriaimagen/fotorcreatedn.jpg">https://rtvc-assets-radionica3.s3.amazonaws.com/s3fs-public/senalradionica/articulo-noticia/galeriaimagen/fotorcreatedn.jpg</a> 
@@ -614,8 +637,8 @@
             tr
               td.align-middle Son plataformas que toman como base los navegadores web; generalmente alojan juegos casuales. Un sistema en el cual la mayoría son juegos gratis. Tuvo sus inicios en la ya difunta Adobe Flash Player. Entre ellas, se destacan: <a href='https://armorgames.com/' target='_blank'>https://armorgames.com/</a>, <a href='https://www.minijuegos.com/' target='_blank'>https://www.minijuegos.com/</a>, <a href='https://www.juegosdiarios.com/' target='_blank'></a>
     .row.justify-content-center.mb-5(data-aos="fade-left")
-      .col-10
-        .container-maquinas.p-5
+      .col-lg-10
+        .container-maquinas.p-4.p-lg-5
           .row
             .col-12.col-lg-6.mb-5.mb-lg-0
               h3.text-white Máquinas recreativas o <i>arcades</i>
@@ -624,8 +647,8 @@
               .row.justify-content-center.mb-4
                 .col-auto
                   .titulo-sexto.color-acento-contenido.mb-0
-                    h5.text-white Figura 24
-                    span.text-white <i>Arcades</i> populares
+                    h5.text-white.mb-0 Figura 24
+                    p.text-white.mb-0 <i>Arcades</i> populares
               figure
                 img(src="@/assets/curso/tema1-imagen56.svg")
     .row.align-items-end(data-aos="fade-left")
