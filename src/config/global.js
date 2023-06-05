@@ -121,6 +121,11 @@ export default {
         nombreRuta: 'referencias',
       },
       {
+        icono: 'fas fa-file-pdf',
+        titulo: 'Descargar PDF',
+        download: 'downloads/prueba.pdf',
+      },
+      {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
         download: 'downloads/material.zip',
@@ -300,13 +305,13 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patrica Aristizabal Gutiérrez',
+          nombre: 'Claudia Patricía Aristizábal Gutiérrez',
           cargo: 'Líder ecosistema de recursos educativos digitales (RED)',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Liliana Victoria Morales Gualdron',
+          nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
@@ -350,13 +355,13 @@ export default {
           centro: 'Centro Agropecuario La Granja - Regional Tolima',
         },
         {
-          nombre: 'Gloria Amparo Lopez Escudero',
+          nombre: 'Gloria Amparo López Escudero',
           cargo: 'Adecuador Instruccional - 2023',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Andres Felipe Velandia Espitia',
+          nombre: 'Andrés Felipe Velandia Espitia',
           cargo: 'Metodólogo para la Formación Virtual - 2023',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
@@ -371,11 +376,6 @@ export default {
           cargo: 'Responsable del equipo',
           centro:
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-        },
-        {
-          nombre: 'Leyson Fabian Castaño Perez',
-          cargo: 'Soporte organizacional',
-          centro: 'Centro de Comercio y Servicios -  Regional Tolima',
         },
         {
           nombre: 'Anllelo Andres Reina Montañez',
@@ -396,12 +396,6 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Laura Gisselle Murcia Pardo',
-          cargo: 'Producción audiovisual',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-        },
-        {
           nombre: 'María Carolina Tamayo López',
           cargo: 'Producción audiovisual',
           centro:
@@ -417,18 +411,6 @@ export default {
           nombre: 'Zuleidy Maria Ruiz Torres',
           cargo: 'Producción audiovisual',
           centro: 'Centro de Comercio y Servicios -  Regional Tolima',
-        },
-        {
-          nombre: 'Ernesto Navarro Jaimes',
-          cargo: 'Animador y productor multimedia - 2023',
-          centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
-        },
-        {
-          nombre: 'Laura Gisselle Murcia Pardo',
-          cargo: 'Animador y productor multimedia - 2023',
-          centro:
-            'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
           nombre: 'Sergio Omar Camacho Orduz',
@@ -454,13 +436,13 @@ export default {
             'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
-          nombre: 'Laura Gisselle Murcia Pardo',
+          nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluador para contenidos inclusivos y accesibles - 2023',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
         },
         {
-          nombre: 'Lina Marcela Perez Manchego',
+          nombre: 'Lina Marcela Pérez Manchego',
           cargo: 'Validador de recursos digitales - 2023',
           centro:
             'Centro de Gestión de Mercados, Logística y Tecnologías de la Información - Regional Distrito Capital',
