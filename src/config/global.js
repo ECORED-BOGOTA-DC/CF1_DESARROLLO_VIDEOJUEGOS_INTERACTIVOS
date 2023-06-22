@@ -29,7 +29,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Pipeline del videojuego',
+            titulo: '<i>Pipeline</i> del videojuego',
             hash: 't_1_1',
           },
           {
@@ -80,7 +80,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.5',
-            titulo: 'Storyboard',
+            titulo: '<i>Storyboard</i>',
             hash: 't_2_5',
           },
           {

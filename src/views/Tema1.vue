@@ -272,7 +272,7 @@
                     .titulo-sexto.color-acento-contenido.mb-0
                       p.mb-0 #[b Figura 5]
                       p.mb-0 Videojuego <i>Story Warriors</i>
-              figure.especial(style="max-height: 235px")
+              figure.especial(style="max-height: 250px")
                 img(src="@/assets/curso/tema1-imagen23.jpg")
                 figcaption Nota. Tomada de <a href="https://twitter.com/SWFairyTales/status/577462629402353664/photo/2" target="_blank">SW: Fairy Tales (@SWFairyTales) / Twitter</a>
           .row.justify-content-center
@@ -286,7 +286,7 @@
                     .titulo-sexto.color-acento-contenido.mb-0
                       p.mb-0 #[b Figura 6]
                       p.mb-0 Videojuego #[i Neon Fury]
-              figure.especial(style="max-height: 235px")
+              figure.especial(style="max-height: 260px")
                 img(src="@/assets/curso/tema1-imagen24.jpg")
                 figcaption Nota. Tomada de  Colombia apuesta a pleno por los videojuegos – <i>Gaming And Media</i>.
           .row.justify-content-center
@@ -344,7 +344,7 @@
                     .titulo-sexto.color-acento-contenido.mb-0
                       p.mb-0 #[b Figura 10]
                       p.mb-0 Videojuego #[i Un cabrón en Transmilenio]
-              figure.especial(style="max-height: 235px")
+              figure.especial(style="max-height: 280px")
                 img(src="@/assets/curso/tema1-imagen28.jpg")
                 figcaption Tomada de <a href="https://black-mamba-studio.itch.io/un-cabron-en-transmilenio" target="_blank"> #[i Un Cabrón en Transmilenio by] Black Mamba Studio, QuietGecko, prinfrexita, Carenalga (itch.io)</a>
           .row.justify-content-center
@@ -381,7 +381,8 @@
     figure.container-image-box-color.mb-5(data-aos="fade-right")
       img(src="@/assets/curso/tema1-imagen31.jpg")
       .color-text.px-4.py-4
-        p.mb-0 El ocio y tiempo de esparcimiento de la cultura y la sociedad actual, a partir de los años 80, ha tenido una gran transformación. Cada vez más personas dedican tiempo y dinero hacia medios de entretenimientos tecnológicos, uno de ellos, los videojuegos. Esta industria desarrolló una curva de éxito exponencial al ser cada vez más asequible, convirtiéndose en una de las de mayor consumo en la actualidad.
+        p El ocio y tiempo de esparcimiento de la cultura y la sociedad actual, a partir de los años 80, ha tenido una gran transformación. Cada vez más personas dedican tiempo y dinero hacia medios de entretenimientos tecnológicos, uno de ellos, los videojuegos.
+        p.mb-0 Esta industria desarrolló una curva de éxito exponencial al ser cada vez más asequible, convirtiéndose en una de las de mayor consumo en la actualidad.
     h3.titulo-tercero Tipos de juegos
     p.mb-5(data-aos="fade-down") Los videojuegos evolucionaron tomando nuevas mecánicas y características que los fueron transformando y a su vez desarrollando estilos diferenciados unos de otros, partiendo de la premisa de acción y recompensa. Debido a sus variaciones, los videojuegos se pueden clasificar en diferentes géneros y subgéneros, tomando en cuenta su tipo de jugabilidad, de los cuales podemos destacar los siguientes: 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")(data-aos="fade-left")
@@ -584,7 +585,8 @@
               .col-12.p-4
                 p.mb-0 La consola de menor potencia de la actualidad, pero se ve compensada por su versatilidad y portabilidad. Tiene una resolución de 1280 x 720px, aunque el sistema puede llegar a 1080p cuando está conectada al televisor.
     h3.titulo-tercero PC
-    p.mb-5(data-aos="fade-right") En los últimos años se ha vuelto muy popular el PC como sistema de videojuegos, esto en parte porque las desarrolladoras están lanzando por este medio los juegos que salen en videoconsolas. Se perfila a futuro como el sistema por excelencia. En el PC, es posible encontrar plataformas dedicadas a videojuegos basados en la nube, en un sistema similar a como trabaja Netflix, de las cuales podemos destacar las siguientes:
+    p(data-aos="fade-right") En los últimos años se ha vuelto muy popular el PC como sistema de videojuegos, esto en parte porque las desarrolladoras están lanzando por este medio los juegos que salen en videoconsolas. Se perfila a futuro como el sistema por excelencia.
+    p.mb-5(data-aos="fade-left") En el PC, es posible encontrar plataformas dedicadas a videojuegos basados en la nube, en un sistema similar a como trabaja Netflix, de las cuales podemos destacar las siguientes:
     .row.mb-0.mb-lg-5(data-aos="fade-left")
       .col-12.col-lg-3.mb-0.d-flex(data-aos="zoom-in-left" data-aos-delay="100" data-aos-duration="600")
         figure.container-elements
@@ -635,7 +637,7 @@
         table
           tbody
             tr
-              td.align-middle Son plataformas que toman como base los navegadores web; generalmente alojan juegos casuales. Un sistema en el cual la mayoría son juegos gratis. Tuvo sus inicios en la ya difunta Adobe Flash Player. Entre ellas, se destacan: <a href='https://armorgames.com/' target='_blank'>https://armorgames.com/</a>, <a href='https://www.minijuegos.com/' target='_blank'>https://www.minijuegos.com/</a>, <a href='https://www.juegosdiarios.com/' target='_blank'></a>
+              td.align-middle Son plataformas que toman como base los navegadores web; generalmente alojan juegos casuales. Un sistema en el cual la mayoría son juegos gratis. Tuvo sus inicios en la ya difunta Adobe Flash Player. Entre ellas, se destacan: <a href='https://armorgames.com/' target='_blank'>#[span.txt-c1 https://armorgames.com/]</a>, <a href='https://www.minijuegos.com/' target='_blank'>#[span.txt-c1 https://www.minijuegos.com/]</a>, <a href='https://www.juegosdiarios.com/' target='_blank'></a>
     .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-lg-10
         .container-maquinas.p-4.p-lg-5

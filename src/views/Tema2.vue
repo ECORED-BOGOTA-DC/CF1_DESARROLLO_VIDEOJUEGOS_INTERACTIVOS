@@ -46,7 +46,7 @@
           figure.px-2
             img.img-a.img-t(src="@/assets/curso/tema2-imagen4.jpg")
           p.mt-3 Nota. Tomada de 
-            a(href="https://playdead.com/games/limbo/#&gid=1&pid=7" target="_blank") https://playdead.com/games/limbo/<br>#&gid=1&pid=7
+            a(href="https://playdead.com/games/limbo/#&gid=1&pid=7" target="_blank") #[span.txt-c1 https://playdead.com/games/limbo/#[br]#&gid=1&pid=7]
         .col-lg-5.container-juegos-blanco.p-4
           .row.justify-content-center
             .col-auto.px-2
@@ -56,7 +56,7 @@
           figure.px-2
             img.img-a.img-t(src="@/assets/curso/tema2-imagen5.jpg")
           p.mt-3 Nota. Tomada de 
-            a(href="https://store.steampowered.com/app/1338320/Do_Animals_Dream/?l=latam" target="_blank") https://store.steampowered.com/<br>app/1338320/Do_Animals_Dream/?l=latam
+            a(href="https://store.steampowered.com/app/1338320/Do_Animals_Dream/?l=latam" target="_blank") #[span.txt-c1 https://store.steampowered.com/#[br]app/1338320/Do_Animals_Dream/?l=latam]
 
     .div-background-games1.p-4.mt-5(data-aos="fade-left")         
       .row.justify-content-evenly.align-items-stretch
@@ -69,7 +69,7 @@
           figure.px-2
             img.img-a.img-t(src="@/assets/curso/tema2-imagen6.jpg")
           p.mt-3 Nota. Tomada de 
-            a(href="https://store.steampowered.com/app/424840/Little_Nightmares/?l=spanish" target="_blank") https://store.steampowered.com/app/<br>424840/Little_Nightmares/?l=spanish
+            a(href="https://store.steampowered.com/app/424840/Little_Nightmares/?l=spanish" target="_blank") #[span.txt-c1 https://store.steampowered.com/app/#[br]424840/Little_Nightmares/?l=spanish]
     Separador
     #t_2_1.titulo-segundo.color-acento-contenido
       h2 2.1  Personajes
@@ -91,7 +91,7 @@
                 p.mb-0 Aspecto visual juego <i>Agent Intercept</i>
           figure
             img(src="@/assets/curso/tema2-imagen7.jpg")
-            figcaption Nota. Tomada de <a href="https://store.steampowered.com/app/1502710/Agent_Intercept/" target="_blank">https://store.steampowered.com/ app/1502710/Agent_Intercept/</a>
+            figcaption Nota. Tomada de <a href="https://store.steampowered.com/app/1502710/Agent_Intercept/" target="_blank">#[span.txt-c1 https://store.steampowered.com/ app/1502710/Agent_Intercept/]</a>
       .row.px-4(titulo="<i>Thumbnails</i>")
         .col-12.col-lg-6.mb-5.mb-lg-0
           p.mb-0 En este paso, es donde comienza la exploración del proceso de diseño, se empiezan a hacer bocetos pequeños para explorar ideas que puedan funcionar o descartarse. Un punto a tener en cuenta es la creación de la silueta del personaje, para ver cómo se reconoce en la visualización; para ello, por ejemplo para un juego <i>2D</i> lateral de plataformas, se crean thumbnails de la silueta en varias posiciones, teniendo en cuenta la vista lateral de la cámara. En igual caso, si el juego se viera en vista cenital, las siluetas deberían hacerse teniendo en cuenta esta vista.
@@ -103,7 +103,7 @@
                 p.mb-0 <i>Thumbnails</i>
           figure
             img(src="@/assets/curso/tema2-imagen8.jpg")
-            figcaption Nota. Tomada de <a href="https://www.notodoanimacion.es/diseno-y-creacion-de-personajes-para-videojuegos/" target="_blank">https://www.notodoanimacion.es/diseno-y-creacion-de-personajes-para-videojuegos/</a>
+            figcaption Nota. Tomada de <a href="https://www.notodoanimacion.es/diseno-y-creacion-de-personajes-para-videojuegos/" target="_blank">#[span.txt-c1 https://www.notodoanimacion.es/diseno-y-creacion-de-personajes-para-videojuegos/]</a>
 
       div.px-4(titulo="Paleta de colores")
         p.mb-5 La selección de la paleta de colores es fundamental, puesto que dota de carácter y personalidad. Esta paleta de colores debe ser coherente e ir en sintonía con el juego y el personaje. Un ejemplo de ello es la paleta de colores de <i>Super Mario Bros</i>., que viene fuertemente marcada por rojos y ocres, para el personaje, y amarillos, verdes y azules, para escenarios.
@@ -116,7 +116,7 @@
                   p.mb-0 Paleta de colores ejemplo de <i>Super Mario Bros</i>.
             figure
               img(src="@/assets/curso/tema2-imagen9.jpg")
-              figcaption Nota. Tomada de <a href="https://mario.fandom.com/es/wiki/Super_Mario_Wiki:Paleta_de_Colores" target="_blank">https://mario.fandom.com/es/wiki /Super_Mario_Wiki:Paleta_de_Colores</a>
+              figcaption Nota. Tomada de <a href="https://mario.fandom.com/es/wiki/Super_Mario_Wiki:Paleta_de_Colores" target="_blank">#[span.txt-c1 https://mario.fandom.com/es/wiki /Super_Mario_Wiki:Paleta_de_Colores]</a>
 
       div.px-4(titulo="Identidad")
         p.mb-5 En este punto debemos tener elementos que ayuden a definir ciertas características del personaje, para que a primera vista sean fácilmente identificables, como brazos largos o piernas desproporcionadas, para resaltar ciertas cualidades físicas; todo ello de la mano con los modeladores de personajes, pues, en trabajo conjunto, finalmente se desarrolla todo el personaje, donde queda listo su lenguaje corporal, sus elementos característicos y objetos que lo acompañarán.
@@ -129,7 +129,7 @@
                   p.mb-0 Doce arquetipos de personalidad de Carl Gustav Jung
             figure
               img(src="@/assets/curso/tema2-imagen10.svg")
-              figcaption Nota. Tomada de <a href="https://www.ondho.com/que-es-arquetipo-marca/" target="_blank">https://www.ondho.com/que-es-arquetipo-marca/</a>
+              figcaption.mt-3 Nota. Tomada de <a href="https://www.ondho.com/que-es-arquetipo-marca/" target="_blank">#[span.txt-c1 https://www.ondho.com/que-es-arquetipo-marca/]</a>
     .row.justify-content-center(data-aos="fade-down")
       .col-12.col-lg-9
         .cajon.color-acento-contenido.p-4
@@ -137,7 +137,7 @@
           p Observe el ejemplo de la ficha técnica de identidad para un personaje principal.
           .row
             .col-12.col-lg-7.offset-lg-5
-              a.anexo.mb-4(:href="obtenerLink('downloads/CF001_2.1_Ficha Tecnica de personaje.pdf')" target="_blank")
+              a.anexo.mb-4(:href="obtenerLink('downloads/CF001_2.1_Ficha_Tecnica_de_personaje.pdf')" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-pdf.svg")
                 .anexo__texto
@@ -155,13 +155,13 @@
         ul.lista-ul
           li 
             i.fas.fa-gamepad(style="color: #8979F3")
-            | #[b El narrador testigo]. Cuenta las cosas como si las hubiese visto, tal cual sucedieron, lo hace en tercera persona y lo puede hacer en presente o pasado. Es importante saber qué tipo de testigo es, por ejemplo, un niño, un profesor, un bombero, un mago.
+            | #[b El narrador testigo]: cuenta las cosas como si las hubiese visto, tal cual sucedieron, lo hace en tercera persona y lo puede hacer en presente o pasado. Es importante saber qué tipo de testigo es, por ejemplo, un niño, un profesor, un bombero, un mago.
           li 
             i.fas.fa-gamepad(style="color: #8979F3")
-            | #[b El narrador protagonista]. Relata la historia desde su punto de vista, como si le hubiese pasado a él. Hay que tener en cuenta que es el personaje quien relata, por ello se debe usar su personalidad.
+            | #[b El narrador protagonista]: relata la historia desde su punto de vista, como si le hubiese pasado a él. Hay que tener en cuenta que es el personaje quien relata, por ello se debe usar su personalidad.
           li 
             i.fas.fa-gamepad(style="color: #8979F3")
-            | #[b Trama o argumento]. Hay otros tipos de narradores que van describiendo o contando desde diferentes puntos de vista lo que va sucediendo.
+            | #[b Hay otros tipos de narradores]: que van describiendo o contando desde diferentes puntos de vista lo que va sucediendo.
       .tarjeta.color-primario.p-4(titulo="B. Características de la historia")
         h4 Características de la historia
         p En la poética de Aristóteles, se definen las características esenciales que conforman una historia:
@@ -232,7 +232,7 @@
           | Por otro lado, <strong>los videojuegos</strong> presentan los mismos elementos, pero con un desarrollo ramificado que brinda al jugador la posibilidad de interactuar y elegir lo que pasa en la historia, gracias a las decisiones que toma. Es decir, un jugador que se encuentra en el primer nivel se encuentra en tres puertas, A, B y C, y debe decidir cruzar una de ellas. En cada una de esas habitaciones, encontrará un desafío diferente, que lo conduce a un segundo nivel. De la misma forma, puede avanzar hacia tres puertas más, que lo pueden llevar al tercer nivel o, incluso, devolverlo al inicio. Todo esto está controlado por el guionista o escritor, pero le da una sensación de control al jugador. Realmente, es un engaño y un gancho para tener atrapado al jugador y darle versatilidad al videojuego.
     .row(data-aos="fade-up")
       .col-12.col-lg-7.offset-lg-5
-        a.anexo(:href="obtenerLink('downloads/CF001_2.2_Creacion de la historia.pdf')" target="_blank")
+        a.anexo(:href="obtenerLink('downloads/CF001_2.2_Creacion_de_la_historia.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -243,7 +243,7 @@
     Separador
     #t_2_3.titulo-segundo.color-acento-contenido
       h2 2.3  Teoría básica luces y sombras
-    p.mb-5(data-aos="fade-down") ¿Cómo se afecta la percepción de los objetos según la clase de luz que los ilumina? Estos van a mostrar ciertas características gracias al tipo de iluminación que se utiliza.  Es posible distinguir ciertos aspectos de los elementos, tales como su color, textura, volumen, forma, ubicación en el espacio, entre otros, los cuales pueden variar debido al uso de un tipo de iluminación en particular. Gracias a las luces y sombras, es posible percibir la forma tridimensional de un objeto, por eso es preciso mencionar que hay que tener en cuenta qué tipo de iluminación está afectando nuestra escena; para ello, a continuación, se mencionan los tipos de luces que se implementan:
+    p.mb-5(data-aos="fade-down") Cómo se afecta la percepción de los objetos según la clase de luz que los ilumina, estos van a mostrar ciertas características gracias al tipo de iluminación que se utiliza.  Es posible distinguir ciertos aspectos de los elementos, tales como su color, textura, volumen, forma, ubicación en el espacio, entre otros, los cuales pueden variar debido al uso de un tipo de iluminación en particular. Gracias a las luces y sombras, es posible percibir la forma tridimensional de un objeto, por eso es preciso mencionar que hay que tener en cuenta qué tipo de iluminación está afectando nuestra escena; para ello, a continuación, se mencionan los tipos de luces que se implementan:
     .row.justify-content-center.mb-5(data-aos="fade-left")
       .col-md-10.col-lg-6.mb-5.mb-lg-0.d-flex(data-aos="slide-right" data-aos-delay="250" data-aos-duration="600" data-aos-offset="200")
         .caja-texto.color-primario.p-5
@@ -422,7 +422,7 @@
       | Por último, se debe numerar cada una de las escenas, como 1, 2, 3, etc., con la finalidad de mantener una secuencia lineal, de acuerdo con el guion narrativo, y permitirá realizar un <i>storyboard</i> detallado, en orden. También es importante mencionar si es una escena en un espacio exterior o interior y la hora en la que está sucediendo la escena.
     .row(data-aos="fade-down")
       .col-12.col-lg-4.offset-lg-8
-        a.anexo(:href="obtenerLink('downloads/CF001_2.4_Guion tecnico.pdf')" target="_blank")
+        a.anexo(:href="obtenerLink('downloads/CF001_2.4_Guion_tecnico.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -441,7 +441,7 @@
           br
           br
           | En el diseño de videojuegos, se toma una maqueta o plantilla principal como molde, allí se describe la estructura base del videojuego y se describen los niveles del mismo, creando una plantilla para cada nivel, con el fin de tener claridad en las características y diferencias que existen entre nivel y nivel, y para detallar las interacciones del personaje con el entorno y los objetos activos.
-        a.anexo.mb-4(:href="obtenerLink('downloads/CF001_2.5_Plantilla Storyboard.pdf')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('downloads/CF001_2.5_Plantilla_Storyboard.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -620,7 +620,7 @@
                     p.mb-0 Ejemplo uno, escenario <i>Megaman</i> 10
           figure                        
             img(src="@/assets/curso/tema2-imagen33.png")
-            figcaption Nota. Tomada de <a href="https://www.vgmaps.com/Atlas/Wii/MegaMan10-BladeMan.png" target="_blank">https://www.vgmaps.com/Atlas/Wii /MegaMan10-BladeMan.png</a>
+            figcaption Nota. Tomada de <a href="https://www.vgmaps.com/Atlas/Wii/MegaMan10-BladeMan.png" target="_blank">#[span.txt-c1 https://www.vgmaps.com/Atlas/Wii/ MegaMan10-BladeMan.png]</a>
         .row.justify-content-center.m-1
           .col-lg-11
             .pt-2.pb-1.ps-4.pe-4.container-title
@@ -633,7 +633,7 @@
                     p.mb-0 Ejemplo dos, escenario <i>Megaman</i> 10
             figure
               img(src="@/assets/curso/tema2-imagen34.png")
-              figcaption Fragmento tomado de <a href="https://www.vgmaps.com/Atlas/Wii/MegaMan10-BladeMan.png" target="_blank">https://www.vgmaps.com/Atlas /Wii/MegaMan10-BladeMan.png</a>
+              figcaption Fragmento tomado de <a href="https://www.vgmaps.com/Atlas/Wii/MegaMan10-BladeMan.png" target="_blank">#[span.txt-c1 https://www.vgmaps.com/Atlas /Wii/MegaMan10-BladeMan.png]</a>
         .row.justify-content-center.m-1
           .col-lg-7
             .row.justify-content-center
@@ -642,7 +642,7 @@
                   p.mb-0 En la figura 45, se puede ver que en el piso hay unos pinchos, si el personaje cae en esas zonas, automáticamente muere; también, al final del nivel, se pueden observar unas escaleras para pasar al siguiente nivel.
             figure
               img(src="@/assets/curso/tema2-imagen35.png")
-              figcaption Fragmento tomado de <a href="https://www.vgmaps.com/Atlas/Wii/MegaMan10-BladeMan.png" target="_blank">https://www.vgmaps.com/ Atlas/Wii/MegaMan10-BladeMan.png</a>
+              figcaption Fragmento tomado de <a href="https://www.vgmaps.com/Atlas/Wii/MegaMan10-BladeMan.png" target="_blank">#[span.txt-c1 https://www.vgmaps.com/ Atlas/Wii/MegaMan10-BladeMan.png]</a>
             .row.justify-content-center
               .col-11
                 .pt-2.pb-1.ps-4.pe-4.container-title.bottom
@@ -659,7 +659,7 @@
                   p.mb-0 En la figura 46, se observa el enemigo mayor ante el que se debe pelear, y es el último nivel por el que se atraviesa.
             figure      
               img(src="@/assets/curso/tema2-imagen36.png")
-              figcaption Fragmento tomado de <a href="https://www.vgmaps.com/Atlas/Wii/MegaMan10-BladeMan.png" target="_blank">https://www.vgmaps.com/Atlas /Wii/MegaMan10-BladeMan.png</a>
+              figcaption Fragmento tomado de <a href="https://www.vgmaps.com/Atlas/Wii/MegaMan10-BladeMan.png" target="_blank">#[span.txt-c1 https://www.vgmaps.com/Atlas /Wii/MegaMan10-BladeMan.png]</a>
             .row.justify-content-center
               .col-11
                 .pt-2.pb-1.ps-4.pe-4.container-title.bottom
